@@ -13,16 +13,17 @@ I have a B.Eng. (2015) in Transportation Engineering from [Central South Univers
 
 ### Research
 
-My research interests focus on intelligent control and robotics. 
-
-I have a deep interest in control theory: 
+My research interests focus on intelligent control and robotics. I am committed to advancing the field by integrating fundamental control principles with innovative technologies for real-world applications:
 - Adaptive optimal control:[TAC2024], [CDC2023], [CDC2019]
-
-and I am committed to advancing the field by integrating fundamental control principles with innovative technologies for real-world applications:
 - Robotics: [RA-L2024], [TMECH2024], [IROS2024]
-- Automotive systems: [TCST2024],[TII2024],[IFAC2023],[SAE2020],[UKACC2018],[TCST2019],[TVT2017],[ICMIC2017],[IFAC2017]
+- Automotive systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][TII2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017]
 - Quantum theory: [L-CSS2024]
 
-I am committed to advancing the field by integrating fundamental control principles with innovative technologies to solve complex problems and drive technological progress.
-
+### Project
+- AMPI (Key Researcher)
+- RAICo (Co-Investigator)
+- LongOps (Key Researcher)
+- RAIN+ (Researcher)
+- ADAPT-IT (Key Researcher)
+- Marie-Curie Fellowship (Key Researcher)
 
