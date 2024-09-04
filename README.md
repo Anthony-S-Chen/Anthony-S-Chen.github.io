@@ -1,51 +1,46 @@
-# Academic Pages
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+I am a Lecturer in Robotics with the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. I am currently based at [RAICo1](https://hotrobotics.co.uk/facilities/university-of-manchester-2/). I hold a visitor scholar position (客員研究員) at the University of Tokyo, Tokyo, Japan, at the [Harada Laboratory](https://sites.google.com/g.ecc.u-tokyo.ac.jp/cdbim-medical-devices/home?authuser=0).
 
-Academic Pages is a Github Pages template for academic websites.
+I have a BS (2012) in Mechatronics Engineering and MS (2014) in Electronic Systems and Automation Engineering from the [University of Brasilia](http://international.unb.br/). I obtained a PhD (2018) in Mechanical Engineering from the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I was an Assistant Professor (助教) at the University of Tokyo until late 2023.
 
-# Getting Started
+### Opportunities
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Open opportunities (if any) for Ph.D and PDRA in my group are posted on my [LinkedIn](https://www.linkedin.com/in/murilo-marques-marinho-046178252/), the [robotics-worldwide mailing list](https://www.lists.kit.edu/sympa/subscribe/robotics-worldwide), [UoM jobs page](https://www.jobs.manchester.ac.uk/Home/Job), and [FindAPhd](https://www.findaphd.com/phds/department-of-electronic-and-electrical-engineering/?c00jh440&Keywords=marinho) (when applicable).
 
-See more info at https://academicpages.github.io/
+Prospective MSc students must refer to the [Robotics MSc](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/#course-profile) and [Robotics MSc with Extended Research](https://www.manchester.ac.uk/study/masters/courses/list/21031/msc-robotics-with-extended-research/). Bespoke MSc Project Dissertation topics from students in other MScs (e.g. [ACSE MSc](https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/)) will be evaluated on a case by case basis according to university guidelines.
 
-## Running Locally
+### Research 
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+My work has been focused on teleoperated and/or (semi-)automomous robots applied to [medicine](https://www.youtube.com/watch?v=dayuW47PKKc&list=TLGGLlmonU1w7aAyMjA5MjAyMQ) and [scientific exploration](https://aiscienceplatform.github.io). Notably
+- Pediatric surgery: [ICRA19](http://doi.org/10.1109/ICRA.2019.8794363), [RAL20](http://doi.org/10.1109/LRA.2019.2963642), [T-MRB21](http://doi.org/https://doi.org/10.1109/TMRB.2021.3049878), and [JMRCAS23](http://doi.org/10.1002/rcs.2476).
+- Eye surgery: [T-MRB22](http://doi.org/10.1109/TMRB.2022.3147033) and [ICRA23](http://doi.org/10.1109/ICRA48891.2023.10160795).
+- Neurosurgery: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [IJMRCAS20](http://doi.org/10.1002/rcs.2053).
+- Scientific exploration: [IROS23](https://arxiv.org/pdf/2303.12265), [RAM24](http://doi.org/10.1109/MRA.2023.3336472), and [ICRA24](https://arxiv.org/pdf/2309.10287).
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+Those implementations are based on a rigourous constrained kinematic robot control framework suitable for all sorts of robots.
+- (Adaptive) constrained kinematic control: [T-RO19](http://doi.org/10.1109/TRO.2019.2920078) and [T-RO22](http://doi.org/10.1109/TRO.2022.3181047). 
+- Software implementation and system integration: [IJMRCAS20](http://doi.org/10.1002/rcs.2053), [RAM21](http://doi.org/10.1109/MRA.2020.2997920), and [RAM24](http://doi.org/10.1109/MRA.2023.3336472).
 
-# Maintenance
+I also have a few works in *pure* image processing, mostly related to robotics, e.g. [IJCARS20](http://doi.org/10.1007/s11548-020-02185-0), [ICRA20](http://doi.org/10.1109/ICRA40945.2020.9196779), and [IROS21](http://doi.org/10.1109/IROS51168.2021.9636404).
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+<hr>
+### Paper-related Videos
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-## Bugfixes and enhancements
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+<hr>
+### Press/Talks-related Videos
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
