@@ -21,7 +21,7 @@ My research interests focus on intelligent control and robotics. I am committed 
 - Automotive systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][TII2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017]
 - Quantum theory: [L-CSS2024]
 
-### Project
+### Projects
 - AMPI (£xx,xxx Key Researcher)
 - RAICo (£150k, Co-Investigator)
 - LongOps (£150k, Key Researcher)
