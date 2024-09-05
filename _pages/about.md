@@ -23,12 +23,12 @@ My research interests focus on intelligent control and robotics. I have been dev
 
 
 ### Projects
-- [AMPI](https://www.manchester.ac.uk/about/news/north-west-england-primed-to-become-advanced-manufacturing-hub-with-new-government-funding/) (Key Researcher) £22.6m funded by UKRI Strength in Places Fund (SIPF) and [National Physical Laboratory](https://www.npl.co.uk/).
-- [RAICo](https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria) (£150k, Co-Investigator) by Sellafield and NDA.
-- [LongOps](https://race.ukaea.uk/programmes/longops/) (£300k, Key Researcher) by UKAEA.
+- [AMPI](https://www.manchester.ac.uk/about/news/north-west-england-primed-to-become-advanced-manufacturing-hub-with-new-government-funding/) (Key Researcher) £22.6m funded by UKRI and [NPL](https://www.npl.co.uk/).
+- [RAICo](https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria) (Co-Investigator) £150k by Sellafield and NDA.
+- [LongOps](https://race.ukaea.uk/programmes/longops/) (Key Researcher) £300k by UKAEA RACE.
 - [RAIN+](https://rainhub.org.uk/) (Researcher) £2m funded by EPSRC.
-- [ADAPT-IT](https://www.apcuk.co.uk/impact/funded-projects/westfield-adapt/) (Key Researcher) £3.9m funded by [APC UK](https://www.apcuk.co.uk/)
-- [Marie-Curie Fellowship] (Researcher) €300k funded by EU (European Commission) FP7.
+- [ADAPT-IT](https://www.apcuk.co.uk/impact/funded-projects/westfield-adapt/) (Key Researcher) £3.9m funded by [APC UK](https://www.apcuk.co.uk/).
+- [AECE](https://cordis.europa.eu/project/id/625531) (Researcher) €231k funded by EU FP7 Marie-Curie IEF.
 
 ### Business, Commercialization, and Outreach
 - RoboGlove (Founder): Innovation Award (£2,000) from [Innovation Academy](https://www.linkedin.com/in/uom-innovation-academy/?originalSubdomain=uk), The Masood Entrepreneurship Centre [(MEC)](https://www.entrepreneurship.manchester.ac.uk/), and Alliance Manchester Business School[(Alliance MBS)](https://www.alliancembs.manchester.ac.uk/);
