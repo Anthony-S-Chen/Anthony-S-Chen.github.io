@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## PhD Viva dinner
-Photo taken at the Browns after the PhD viva in Bristol in 2022. 
+Photo taken at the Browns after the PhD viva in Bristol in 2022. <br/><img src='/images/Chen_66stand.jpeg'>
 <p align="center">
 <img src="/images/Chen_66stand.jpeg">
 </p>
