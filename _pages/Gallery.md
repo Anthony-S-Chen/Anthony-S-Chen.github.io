@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## PhD Viva dinner
+## PhD viva dinner
 Photo taken at the Browns after the PhD viva in Bristol in 2022. 
 <p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Chen_66stand.jpeg">
+<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/viva.jpeg">
 </p>
 
 ## CSR group banner and CRAI jacket
