@@ -10,7 +10,7 @@ main:
     url: https://scholar.google.co.uk/citations?user=uAHIA1wAAAAJ&hl=en&inst=8574086807289546695
 
   - title: "Gallery"
-    url: /gallery
+    url: /Gallery/
 
   # - title: "Talks"
   #   url: /talks/    
