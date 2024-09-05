@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## PhD Viva dinner
-Photo taken at the Browns after the PhD viva in Bristol in 2022. <br/><img src='https://github.com/Anthony-S-Chen/portfolio/blob/master/images/CSR.jpeg'>
+Photo taken at the Browns after the PhD viva in Bristol in 2022. 
 <p align="center">
-<img src="https://github.com/Anthony-S-Chen/portfolio/blob/master/images/AIA.jpeg">
+<img style='border:1px solid #000000;' src="https://github.com/Anthony-S-Chen/portfolio/blob/master/images/AIA.jpeg">
 </p>
 
 ## CSR group banner and CRAI jacket
@@ -58,5 +58,5 @@ Photo taken at the University of Bath in 2019.
 </p>
 
 
-#<iframe width="560" height="315" src="https://www.youtube.com/embed/78IVNJ8RL_8" title="YouTube video player" frameborder="0" allow="accelerometer; #autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78IVNJ8RL_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
