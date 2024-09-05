@@ -1,9 +1,13 @@
 ---
 layout: archive
 title: "Gallery"
+permalink: /Gallery/
 author_profile: true
 ---
 
+---
+
+{% include base_path %}
 {% include base_path %}
 
 ## PhD Viva dinner
