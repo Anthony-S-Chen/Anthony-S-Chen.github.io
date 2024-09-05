@@ -24,9 +24,9 @@ My research interests focus on intelligent control and robotics. I have been dev
 
 ### Projects
 - [AMPI](https://www.manchester.ac.uk/about/news/north-west-england-primed-to-become-advanced-manufacturing-hub-with-new-government-funding/) [Key Researcher] £22.6m funded by UKRI and [NPL](https://www.npl.co.uk/).
-- [RAICo](https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria) [Co-I] £150k by Sellafield and NDA.
-- [LongOps](https://race.ukaea.uk/programmes/longops/) [Key Researcher] £300k by UKAEA RACE.
-- [RAIN+](https://rainhub.org.uk/) [Researcher] £2m funded by EPSRC.
+- [RAICo](https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria) [Co-I] £150k funded by Sellafield and NDA.
+- [LongOps](https://race.ukaea.uk/programmes/longops/) [Key Researcher] £300k funded by UKAEA RACE.
+- [RAIN](https://rainhub.org.uk/) [Researcher] £12.8m funded by EPSRC.
 - [ADAPT-IT](https://www.apcuk.co.uk/impact/funded-projects/westfield-adapt/) [Key Researcher] £3.9m funded by [APC UK](https://www.apcuk.co.uk/).
 - [AECE](https://cordis.europa.eu/project/id/625531) [Key Researcher] €231k funded by EU FP7 Marie-Curie IEF.
 
