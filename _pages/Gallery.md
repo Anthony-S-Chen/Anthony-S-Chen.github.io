@@ -8,7 +8,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% include base_path %}
 
 ## PhD Viva dinner
 Photo taken at the Browns after the PhD viva in Bristol in 2022. 
