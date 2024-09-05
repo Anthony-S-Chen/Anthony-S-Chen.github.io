@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## PhD Viva dinner
-Photo taken at the Browns after the PhD viva in Bristol in 2022. <br/><img src='/images/Chen_66stand.jpeg'>
+Photo taken at the Browns after the PhD viva in Bristol in 2022. <br/><img src='https://github.com/Anthony-S-Chen/portfolio/blob/master/images/CSR.jpeg'>
 <p align="center">
 <img src="https://github.com/Anthony-S-Chen/portfolio/blob/master/images/AIA.jpeg">
 </p>
