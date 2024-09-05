@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 redirect_from: 
-  - /images/
+  - /Gallery/
 ---
 
 {% include base_path %}
