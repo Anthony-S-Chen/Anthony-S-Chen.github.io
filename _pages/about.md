@@ -39,7 +39,7 @@ My research interests focus on intelligent control and robotics. I have been dev
 ### TMECH2024 Video
 
 
-<iframe width="290" height="160" src="https://youtu.be/embed/3HQk8qZHFpA?si=tgLCvq14RpjTHW7W" title="TMECH2024 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="290" height="160" src="https://www.youtube.com/embed/watch?v=3HQk8qZHFpA&t=21s" title="TMECH2024 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 ### IROS2024 Video
