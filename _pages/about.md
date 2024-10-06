@@ -36,14 +36,20 @@ My research interests focus on intelligent control and robotics. I have been dev
 - Outreach: Exhibition Award £3,000 at Renold Innovation Hub, [ID Manchester](https://www.id-manchester.com/), from [Innovation Academy](https://www.linkedin.com/in/uom-innovation-academy/?originalSubdomain=uk); £1,000 outreach award in Faculty of Engineering, Unversity of Bristol.
 
 <hr>
-### Paper-related Videos
+### TMECH2024 Video
 
 
-<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="290" height="160" src="https://youtu.be/3HQk8qZHFpA?si=tgLCvq14RpjTHW7W" title="TMECH2024 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
-### Press/Talks-related Videos
+### IROS2024 Video
 
 
-<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="290" height="160" src="https://youtu.be/BneKe8PxFhI?si=iMmWnoeFqh4rHT1K" title="IROS2024 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+### UKAEA LongOps Project Video
+
+
+<iframe width="290" height="160" src="https://youtu.be/xa45szoMe6g?si=XVKwwtT1_uBB4vmW" title="LongOps Project Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
