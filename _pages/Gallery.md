@@ -58,5 +58,4 @@ Photo taken at the University of Bath in 2019.
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78IVNJ8RL_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
