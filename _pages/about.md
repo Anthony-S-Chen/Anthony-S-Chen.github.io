@@ -35,3 +35,15 @@ My research interests focus on intelligent control and robotics. I have been dev
 - J2W (Co-Founder, ex-CFO): £700,000 turnover in 2023;
 - Outreach: Exhibition Award £3,000 at Renold Innovation Hub, [ID Manchester](https://www.id-manchester.com/), from [Innovation Academy](https://www.linkedin.com/in/uom-innovation-academy/?originalSubdomain=uk); £1,000 outreach award in Faculty of Engineering, Unversity of Bristol.
 
+<hr>
+### Paper-related Videos
+
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l8DMpm5Q5t8gjXYFoM_tOlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+### Press/Talks-related Videos
+
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/videoseries?list=PLfnnpBCwI_l_sDiffl5hRHH8rmvGs8aH0" title="Press/Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
