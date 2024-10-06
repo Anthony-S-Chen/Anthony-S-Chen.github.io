@@ -43,12 +43,10 @@ My research interests focus on intelligent control and robotics. I have been dev
 <hr>
 ### IROS2024 Video
 
-
-<iframe width="290" height="160" src="https://youtu.be/embed/BneKe8PxFhI?si=iMmWnoeFqh4rHT1K" title="IROS2024 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BneKe8PxFhI?si=9uGXq1W_NYXqbmwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 ### UKAEA LongOps Project Video
 
-
-<iframe width="290" height="160" src="https://youtu.be/embed/xa45szoMe6g?si=XVKwwtT1_uBB4vmW" title="LongOps Project Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xa45szoMe6g?si=HbSroKQAwDLqZ7tK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
