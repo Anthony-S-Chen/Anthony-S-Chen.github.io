@@ -16,10 +16,10 @@ I am an IEEE member of the Control Systems Society [(CSS)](https://www.ieeecss.o
 ### Research
 
 My research interests focus on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
-- Control theory: Adaptive optimal control [TAC2024], [CDC2023], [CDC2019], [IJACSP2024].
+- Control: Adaptive optimal control [TAC2024], [CDC2023], [CDC2019], [IJACSP2024].
 - Robotics: [RA-L2024], [TMECH2024], [IROS2024].
-- Automotive systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][TII2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
-- Quantum theory: [L-CSS2024].
+- Automotive/Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][TII2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
+- Quantum systems: [L-CSS2024].
 
 
 ### Projects
