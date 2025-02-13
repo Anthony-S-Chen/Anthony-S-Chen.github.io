@@ -9,17 +9,17 @@ redirect_from:
 
 I am a Postdoctoral Research Associate with the [Control Systems and Robotics Group (CSR)](https://uom-csrgroup.uk/) and the [Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/), the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. 
 
-I received a B.Eng. (2015) in Transportation Engineering as a member of Shenghua Honors College under the 
-Innovative Advanced Engineering Talent Program at [Central South University](https://en.csu.edu.cn/), during my studies I spent one year of industrial placement at [CRRC](https://www.crrcgc.cc/en/) in China. After moving to England in 2015, I obtained an M.Sc. (2017) in Advanced Mechanical Engineering and a Ph.D. (2022) in Mechanical Engineering at the Dynamics and Control Group [(DCG)](https://www.bristol.ac.uk/engineering/research/dynamicscontrol/) from the [University of Bristol](https://www.bristol.ac.uk/). I was a Visiting Researcher with the Institute for Advanced Automotive Propulsion Systems [(IAAPS)](https://iaaps.co.uk/) at the [University of Bath](https://www.bath.ac.uk/) from 2016 to 2022.
+I received a B.Eng. (2015) in Transportation Engineering at [Central South University](https://en.csu.edu.cn/) as a member of Shenghua Honors College under the 
+Innovative Advanced Engineering Talent Program, during my studies I spent one year of industrial placement at [CRRC](https://www.crrcgc.cc/en/) in China. After moving to England in 2015, I obtained an M.Sc. (2017) in Advanced Mechanical Engineering and a Ph.D. (2022) in Mechanical Engineering at the Dynamics and Control Group [(DCG)](https://www.bristol.ac.uk/engineering/research/dynamicscontrol/) from the [University of Bristol](https://www.bristol.ac.uk/). I was a Visiting Researcher with the Institute for Advanced Automotive Propulsion Systems [(IAAPS)](https://iaaps.co.uk/) at the [University of Bath](https://www.bath.ac.uk/) from 2016 to 2022.
 
-I am an IEEE member of the Control Systems Society [(CSS)](https://www.ieeecss.org/) and the Robotics and Automation Society [(RAS)](https://www.ieee-ras.org/). I am a reviewer for IEEE TAC, Automatica, IEEE CDC, IEEE L-CSS, IEEE RA-L, IEEE T-RO, IROS, and ICRA.
+I am an IEEE member of the Control Systems Society [(CSS)](https://www.ieeecss.org/) and the Robotics and Automation Society [(RAS)](https://www.ieee-ras.org/). I am a member of IEEE CSS Technical Committee of Quantum Computing, Systems and Control, IEEE RAS Technical Committee on Robot Learning, IEEE RAS Technical Committee on Robotic Hands. I am a reviewer for IEEE TAC, Automatica, IEEE CDC, IEEE L-CSS, IEEE RA-L, IEEE T-RO, IROS, and ICRA.
 
 ### Research
 
 My research interests focus on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
-- Control: Adaptive optimal control [TAC2024], [CDC2023], [CDC2019], [IJACSP2024].
-- Robotics: [RA-L2024], [TMECH2024], [IROS2024].
-- Automotive/Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][TII2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
+- Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
+- Robotics: [T-RO2025], [RA-L2025], [TMECH2024], [IROS2024].
+- Automotive/Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
 - Quantum systems: [L-CSS2024].
 
 
