@@ -11,11 +11,6 @@ I am an Assistant Professor at the Department of Electrical and Electronic Engin
 
 At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as MMME2058 Aerospace Control and MMME3077 Avionics.
 
-My research interests include 
-- Control Theory
-- Reinforcement Learning
-- Embodied Intelligence
-- Quantum Control
 
 ### Biography
 
@@ -25,6 +20,12 @@ National Talent Program. During my undergraduate studies, I spent one-year indus
 I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.org/) and the Robotics and Automation Society [(RAS)](https://www.ieee-ras.org/). I am a member of the IEEE CSS Technical Committee of Quantum Computing, Systems and Control, IEEE RAS Technical Committee on Robot Learning, IEEE RAS Technical Committee on Robotic Hands. I regularly review for leading journals and conferences in Control and Robotics, including IEEE TAC, Automatica, IEEE TCST, IEEE CDC, IEEE L-CSS, IEEE RA-L, IEEE T-RO, IROS, and ICRA.
 
 ### Research
+
+My research interests include 
+- Control Theory
+- Reinforcement Learning
+- Embodied Intelligence
+- Quantum Control
 
 <p align="center">
 <img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope.jpg">
