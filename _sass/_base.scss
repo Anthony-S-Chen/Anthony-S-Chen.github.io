@@ -307,7 +307,7 @@ nav {
 
 /* Remove underline from main content links */
 .page__content a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /*
