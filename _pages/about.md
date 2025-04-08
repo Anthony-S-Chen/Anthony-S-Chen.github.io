@@ -21,7 +21,7 @@ I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.o
 
 ### Research
 
-My research interests include Control Theory, Reinforcement Learning, Embodied Intelligence, Quantum Control. Below is a 
+My research interests include Control Theory, Reinforcement Learning, Embodied Intelligence, and Quantum Control. I work at the intersection of theory and application, with a strong focus on developing learning-based control methods to solve complex real-world engineering challenges, as well as advancing control methodologies for scientific exploration. My research covers a broad spectrum of applications, including propulsion systems, robotics, and quantum systems.
 
 <p align="center">
 <img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope.jpg">
@@ -31,10 +31,10 @@ My research interests include Control Theory, Reinforcement Learning, Embodied I
 <img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/applications.png">
 </p>
 
-My research projects have focused on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
+I have led and contributed to a variety of research projects in intelligent control and robotics, focusing on the development and implementation of advanced control frameworks across multiple domains:
 - Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
 - Robotics: [T-RO2025], [RA-L2025], [TMECH2024], [IROS2024].
-- Automotive/Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
+- Automotive and Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
 - Quantum systems: [L-CSS2024].
 
 
