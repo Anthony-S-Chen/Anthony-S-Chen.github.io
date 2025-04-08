@@ -24,9 +24,9 @@ author:
   avatar           : "Chen_happy.png"
   name             : "Anthony Siming Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor at University of Nottingham"
   location         : "Nottingham, United Kingdom"
-  employer         : "University of Nottingham"
+  employer         : # "University of Nottingham"
   uri              : # URL
   email            : "a.chen@nottingham.ac.uk" 
 
