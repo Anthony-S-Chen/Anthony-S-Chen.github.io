@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering, [University of Nottingham](https://www.nottingham.ac.uk/), U.K. I am affiliated with the Mechanical and Aerospace Systems Research Group [(MAS)](https://www.nottingham.ac.uk/research/groups/mas/index.aspx) and serve as an associate member of both the Power Electronics, Machines, and Control Research Institute [(PEMC)](https://www.nottingham.ac.uk/research/groups/pemc/home.aspx) and the Aerospace Technology Institute [(ATI)](https://www.ati.org.uk/). I hold an honorary academic position with the [Control Systems and Robotics Group (CSR)](https://uom-csrgroup.uk/) and the [Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/), the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. 
 
-At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as Aerospace Control (Yr 2), Avionics (Yr 3).
+At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as Aerospace Control (MMME2058) and Avionics (MMME3077).
 
 My research interests include 
 - Control Theory
