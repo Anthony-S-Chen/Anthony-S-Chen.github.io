@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering, [University of Nottingham](https://www.nottingham.ac.uk/), U.K. I am affiliated with the Mechanical and Aerospace Systems Research Group [(MAS)](https://www.nottingham.ac.uk/research/groups/mas/index.aspx) and serve as an associate member of both the Power Electronics, Machines, and Control Research Institute [(PEMC)](https://www.nottingham.ac.uk/research/groups/pemc/home.aspx) and the Aerospace Technology Institute [(ATI)](https://www.ati.org.uk/). I hold an honorary academic position with the [Control Systems and Robotics Group (CSR)](https://uom-csrgroup.uk/) and the [Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/), the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. 
 
-At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as Aerospace Control (MMME2058) and Avionics (MMME3077).
+At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as MMME2058 Aerospace Control and MMME3077 Avionics.
 
 My research interests include 
 - Control Theory
@@ -25,6 +25,8 @@ National Talent Program. During my undergraduate studies, I spent one-year indus
 I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.org/) and the Robotics and Automation Society [(RAS)](https://www.ieee-ras.org/). I am a member of the IEEE CSS Technical Committee of Quantum Computing, Systems and Control, IEEE RAS Technical Committee on Robot Learning, IEEE RAS Technical Committee on Robotic Hands. I regularly review for leading journals and conferences in Control and Robotics, including IEEE TAC, Automatica, IEEE TCST, IEEE CDC, IEEE L-CSS, IEEE RA-L, IEEE T-RO, IROS, and ICRA.
 
 ### Research
+
+![Alt text](/path/to/image.jpg)
 
 My research projects have focused on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
 - Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
