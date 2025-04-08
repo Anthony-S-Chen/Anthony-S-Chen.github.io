@@ -24,11 +24,11 @@ I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.o
 My research interests include Control Theory, Reinforcement Learning, Embodied Intelligence, and Quantum Control. I work at the intersection of theory and application, with a strong focus on developing learning-based control methods to solve complex real-world engineering challenges, as well as advancing control methodologies for scientific exploration. My research covers a broad spectrum of applications, including propulsion systems, robotics, and quantum systems.
 
 <p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope.jpg">
+<img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope.jpg">
 </p>
 
 <p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/applications.png">
+<img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/applications.png">
 </p>
 
 I have led and contributed to a variety of research projects in intelligent control and robotics, focusing on the development and implementation of advanced control frameworks across multiple domains:
