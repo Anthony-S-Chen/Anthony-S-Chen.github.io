@@ -13,6 +13,8 @@ At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineeri
 
 My research interests include Control Theory, Reinforcement Learning, Embodied Intelligence, and Quantum Control.
 
+### Biography
+
 I received my B.Eng. (2015) in Transportation Engineering at [Central South University](https://en.csu.edu.cn/) as a member of Shenghua Honors College under a 
 National Talent Program. During my undergraduate studies, I spent one-year industrial placement at [CRRC](https://www.crrcgc.cc/en/) in China. In 2015, I moved to the UK and obtained an M.Sc. (2017) in Advanced Mechanical Engineering and a Ph.D. (2022) in Mechanical Engineering from the [University of Bristol](https://www.bristol.ac.uk/), where I conducted research within the Dynamics and Control Research Group [(DCRG)](https://www.bristol.ac.uk/engineering/research/dynamicscontrol/). I have held research and visiting positions with [The University of Manchester](https://www.manchester.ac.uk), the [Georgia Institute of Technology](https://www.gatech.edu/), the Institute for Advanced Automotive Propulsion Systems [(IAAPS)](https://iaaps.co.uk/) at the [University of Bath](https://www.bath.ac.uk/).
 
@@ -20,7 +22,7 @@ I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.o
 
 ### Research
 
-My research interests focus on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
+My research projects have focused on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
 - Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
 - Robotics: [T-RO2025], [RA-L2025], [TMECH2024], [IROS2024].
 - Automotive/Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
