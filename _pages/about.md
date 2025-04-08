@@ -11,7 +11,11 @@ I am an Assistant Professor at the Department of Electrical and Electronic Engin
 
 At Nottingham, I contribute to teaching across the BEng/MEng Aerospace Engineering programmes, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE), teaching modules such as Aerospace Control (Yr 2), Avionics (Yr 3).
 
-My research interests include Control Theory, Reinforcement Learning, Embodied Intelligence, and Quantum Control.
+My research interests include 
+- Control Theory
+- Reinforcement Learning
+- Embodied Intelligence
+- Quantum Control
 
 ### Biography
 
