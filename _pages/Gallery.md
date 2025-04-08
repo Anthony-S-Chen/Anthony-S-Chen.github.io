@@ -41,16 +41,6 @@ Photo taken at the University of Bath in 2019.
 <img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/IAAPS.jpeg">
 </p>
 
-## U.S. Route 66
-
-<p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Chen_66stand.jpeg">
-</p>
-
-<p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Chen_66sit.jpeg">
-</p>
-
 ## Profile photo
 
 <p align="center">
