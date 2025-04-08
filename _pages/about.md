@@ -26,7 +26,9 @@ I am an IEEE Member of the Control Systems Society [(CSS)](https://www.ieeecss.o
 
 ### Research
 
-![Alt text](/path/to/image.jpg)
+<p align="center">
+<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope.jpg">
+</p>
 
 My research projects have focused on intelligent control and robotics. I have been developing learning-based control theory for extensive real-world applications:
 - Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
