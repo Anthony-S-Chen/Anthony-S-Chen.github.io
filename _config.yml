@@ -28,7 +28,7 @@ author:
   location         : "Nottingham, United Kingdom"
   employer         : # "University of Nottingham"
   uri              : # URL
-  
+  email            : "a.chen@nottingham.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -73,7 +73,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-  email            : "a.chen@nottingham.ac.uk" 
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
