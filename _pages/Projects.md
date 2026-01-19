@@ -76,7 +76,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_AMPI.jpeg"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AMPI_Video.gif"
          alt="AMPI figure">
   </div>
   <div class="project-body">
@@ -114,7 +114,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_RAIN.jpeg"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/RAIN.jpeg"
          alt="RAIN figure">
   </div>
   <div class="project-body">
@@ -133,7 +133,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_ADAPTIT.jpeg"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/ADAPTIT.jpeg"
          alt="ADAPT-IT figure">
   </div>
   <div class="project-body">
@@ -152,7 +152,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_AECE.jpeg"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AECE.jpeg"
          alt="AECE figure">
   </div>
   <div class="project-body">
