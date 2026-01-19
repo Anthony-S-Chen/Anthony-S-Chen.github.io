@@ -23,7 +23,7 @@ author_profile: true
 
 [J7] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “[Safe optimal observer design via Q-learning](#),” *IEEE Transactions on Automatic Control*, to appear, 2025.
 
-[J8] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, early access, pp. 1–13, 2024.
+[J8] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, early access, pp. 1–13, 2025.
 
 [J9] **A. S. Chen**, G. Herrmann, R. Islam, C. Brace, J. W. Turner, S. Burgess, “[Q-learning-based optimal control via adaptive critic network for a Wankel rotary engine](https://doi.org/10.1109/TCST.2025.3533312),” *IEEE Transactions on Control Systems Technology*, vol. 33, no. 3, pp. 1101–1109, 2025.
 
