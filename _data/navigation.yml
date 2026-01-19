@@ -39,8 +39,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV_CHEN2024
+  # - title: "CV"
+  #   url: /files/CV_CHEN2024
     
   # - title: "Guide"
   #   url: /markdown/
