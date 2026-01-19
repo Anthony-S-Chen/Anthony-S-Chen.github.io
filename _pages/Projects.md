@@ -14,52 +14,38 @@ author_profile: true
   align-items:flex-start;
   margin: 0 0 22px 0;
 }
-.project-fig{
-  flex: 0 0 170px;
-}
+.project-fig{ flex: 0 0 170px; }
 .project-fig img{
-  width: 170px;
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 6px;
+  width:170px;
+  height:auto;
+  border:1px solid #ddd;
+  border-radius:6px;
 }
-.project-body{
-  flex: 1 1 auto;
-}
-.project-title{
-  margin: 0 0 6px 0;
-  line-height: 1.25;
-}
-.project-meta{
-  margin: 0 0 8px 0;
-  font-size: 0.95em;
-  opacity: 0.85;
-}
-.project-abstract{
-  margin: 0;
-}
+.project-body{ flex: 1 1 auto; }
+.project-title{ margin:0 0 6px 0; line-height:1.25; }
+.project-meta{ margin:0 0 8px 0; font-size:0.95em; opacity:0.85; }
+.project-abstract{ margin:0 0 10px 0; }
+.project-funding{ margin:0 0 4px 0; }
 @media (max-width: 640px){
-  .project-item{ flex-direction: column; }
-  .project-fig{ flex-basis:auto; }
-  .project-fig img{ width: 100%; max-width: 320px; }
+  .project-item{ flex-direction:column; }
+  .project-fig img{ width:100%; max-width:320px; }
 }
 </style>
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/probefly.jpg" alt="ProbeFly cover">
+    <img src="{{ base_path }}/assets/images/projects/probefly.jpg" alt="ProbeFly">
   </div>
   <div class="project-body">
-    <h3 class="project-title">ProbeFly <span style="font-weight:normal;">| <em>Principal Investigator</em></span></h3>
-    <p class="project-meta"><em>Jun. 2025 – Present</em></p>
+    <h3 class="project-title">ProbeFly | <em>Principal Investigator</em></h3>
+    <p class="project-meta"><em>Jun. 2025 - Present</em></p>
     <p class="project-abstract">
-      <strong>ProbeFly: Minimal-Sensor Micro-UAVs for Adaptive Nuclear Confined Space Exploration</strong>.
-      This project develops micro-UAV autonomy for confined and degraded nuclear environments with minimal sensing,
-      focusing on robust navigation, safety-aware control, and learning-based adaptation under uncertainty and partial
-      observability.
+      <strong>ProbeFly: Minimal-Sensor Micro-UAVs for Adaptive Nuclear Confined Space Exploration.</strong>
+      The project develops micro-UAV autonomy for confined and degraded nuclear environments with minimal sensing,
+      focusing on robust navigation, safety-aware control, and learning-based adaptation under uncertainty and partial observability.
     </p>
-    <p><strong>Funding Source:</strong> RAICo: Robotics and Artificial Intelligence Collaboration.</p>
-    <p><strong>Amount:</strong> £10,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> RAICo: Robotics and Artificial Intelligence Collaboration</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 10,000</p>
   </div>
 </div>
 
@@ -68,63 +54,66 @@ author_profile: true
     <img src="{{ base_path }}/assets/images/projects/raico_theme2.jpg" alt="RAICo Theme 2">
   </div>
   <div class="project-body">
-    <h3 class="project-title">RAICo Theme 2 <span style="font-weight:normal;">| <em>Co-Investigator</em></span></h3>
-    <p class="project-meta"><em>Apr. 2024 – Jun. 2025</em></p>
+    <h3 class="project-title">RAICo | <em>Co-Investigator</em></h3>
+    <p class="project-meta"><em>Apr. 2024 - Jun. 2025</em></p>
     <p class="project-abstract">
-      <strong>Suppressing Task-Space Vibrations in Robotic Manipulators on a Flexible Platform</strong>.
+      <strong>Suppressing Task-Space Vibrations in Robotic Manipulators on a Flexible Platform.</strong>
       The project targets vibration-aware planning and control for long-reach robot manipulation on flexible bases,
-      enabling safer, faster task execution in nuclear decommissioning scenarios.
+      enabling safer, faster task execution and improved stability in nuclear decommissioning scenarios.
     </p>
-    <p><strong>Funding Source:</strong> RAICo, Sellafield Ltd., Nuclear Decommissioning Authority (NDA).</p>
-    <p><strong>Amount:</strong> £150,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> RAICo; Sellafield Ltd.; Nuclear Decommissioning Authority (NDA)</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 150,000</p>
   </div>
 </div>
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/ampi.jpg" alt="AMPI project">
+    <img src="{{ base_path }}/assets/images/projects/ampi.jpg" alt="AMPI">
   </div>
   <div class="project-body">
-    <h3 class="project-title">AMPI <span style="font-weight:normal;">| <em>Key Researcher</em></span></h3>
-    <p class="project-meta"><em>Mar. 2024 – Feb. 2025</em></p>
+    <h3 class="project-title">AMPI | <em>Key Researcher</em></h3>
+    <p class="project-meta"><em>Mar. 2024 - Feb. 2025</em></p>
     <p class="project-abstract">
-      <strong>Development of safe learning for manipulator with soft-rigid end-effector</strong>.
-      Investigating safe learning-based control and compliant manipulation using soft-rigid end-effectors for real-world deployment.
+      <strong>Development of safe learning for manipulator with soft-rigid end-effector.</strong>
+      The work investigates safe learning-based control and compliant manipulation using soft-rigid end-effectors,
+      combining data-efficient adaptation with safety constraints for real-world deployment.
     </p>
-    <p><strong>Funding Source:</strong> UKRI / National Physical Laboratory (NPL) via the Advanced Machinery &amp; Productivity Initiative.</p>
-    <p><strong>Amount:</strong> £22,600,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> UKRI; National Physical Laboratory (NPL); Advanced Machinery and Productivity Initiative (AMPI)</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 22,600,000</p>
   </div>
 </div>
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/longops.jpg" alt="LongOps project">
+    <img src="{{ base_path }}/assets/images/projects/longops.jpg" alt="LongOps">
   </div>
   <div class="project-body">
-    <h3 class="project-title">LongOps <span style="font-weight:normal;">| <em>Key Researcher</em></span></h3>
-    <p class="project-meta"><em>Jul. 2022 – Sep. 2023</em></p>
+    <h3 class="project-title">LongOps | <em>Key Researcher</em></h3>
+    <p class="project-meta"><em>Jul. 2022 - Sep. 2023</em></p>
     <p class="project-abstract">
-      <strong>Modelling and control of a long flexible manipulator</strong>; <strong>Teleoperation with Digital Twins</strong>.
-      Advanced modelling, planning and digital-twin-enabled teleoperation for flexible long-reach systems in nuclear robotics.
+      <strong>Challenge 3: Modelling and control of a long flexible manipulator; Challenge 4: Teleoperation with Digital Twins.</strong>
+      Under the SBRI digital technologies program for robotic nuclear decommissioning, this work advanced modeling, trajectory planning,
+      vibration suppression, and digital-twin-enabled teleoperation for safer remote operations.
     </p>
-    <p><strong>Funding Source:</strong> UK Atomic Energy Authority (UKAEA), SBRI (digital technologies for robotic nuclear decommissioning).</p>
-    <p><strong>Amount:</strong> £300,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> UK Atomic Energy Authority (UKAEA); SBRI - Digital technologies for robotic nuclear decommissioning</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 300,000</p>
   </div>
 </div>
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/rain.jpg" alt="RAIN / RAIN+">
+    <img src="{{ base_path }}/assets/images/projects/rain.jpg" alt="RAIN and RAIN+">
   </div>
   <div class="project-body">
-    <h3 class="project-title">RAIN and RAIN+ <span style="font-weight:normal;">| <em>Key Researcher</em></span></h3>
-    <p class="project-meta"><em>Jan. 2022 – Jun. 2022</em></p>
+    <h3 class="project-title">RAIN and RAIN+ | <em>Key Researcher</em></h3>
+    <p class="project-meta"><em>Jan. 2022 - Jun. 2022</em></p>
     <p class="project-abstract">
-      <strong>Robotics and Artificial Intelligence for Nuclear (RAIN)</strong> and <strong>RAIN+</strong>.
-      Contributing to robotics and AI research translation for nuclear decommissioning with broad academic and industrial partnerships. :contentReference[oaicite:0]{index=0}
+      <strong>Robotics and Artificial Intelligence for Nuclear (RAIN) and RAIN+.</strong>
+      Contributed to robotics and AI efforts for nuclear decommissioning, supporting autonomy, remote intervention,
+      and reliable deployment in hazardous environments through academic and industrial collaboration.
     </p>
-    <p><strong>Funding Source:</strong> EPSRC and RAICo partners (UKAEA, Sellafield Ltd, NDA, University of Manchester). :contentReference[oaicite:1]{index=1}</p>
-    <p><strong>Amount:</strong> RAIN ~£12,800,000; RAIN+ ~£1,975,413</p> :contentReference[oaicite:2]{index=2}
+    <p class="project-funding"><strong>Funding Source:</strong> EPSRC</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 12,800,000 (RAIN); GBP 1,980,000 (RAIN+)</p>
   </div>
 </div>
 
@@ -133,14 +122,15 @@ author_profile: true
     <img src="{{ base_path }}/assets/images/projects/adaptit.jpg" alt="ADAPT-IT">
   </div>
   <div class="project-body">
-    <h3 class="project-title">ADAPT-IT <span style="font-weight:normal;">| <em>Key Researcher</em></span></h3>
-    <p class="project-meta"><em>Sep. 2017 – Dec. 2021</em></p>
+    <h3 class="project-title">ADAPT-IT | <em>Key Researcher</em></h3>
+    <p class="project-meta"><em>Sep. 2017 - Dec. 2021</em></p>
     <p class="project-abstract">
-      <strong>Reducing vehicle carbon emissions through development of a compact, efficient and intelligent powertrain</strong>.
-      Developed adaptive estimation and learning-based control methods for engine and powertrain systems with real-world impact.
+      <strong>Reducing vehicle carbon emissions through development of a compact, efficient and intelligent powertrain.</strong>
+      The project developed adaptive estimation and learning-based optimal control methods for engine and powertrain systems,
+      improving performance and emissions robustness under uncertainty and transient operating conditions.
     </p>
-    <p><strong>Funding Source:</strong> Advanced Propulsion Centre UK.</p>
-    <p><strong>Amount:</strong> £3,900,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> Advanced Propulsion Centre (APC) UK</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP 3,900,000</p>
   </div>
 </div>
 
@@ -149,13 +139,14 @@ author_profile: true
     <img src="{{ base_path }}/assets/images/projects/aece.jpg" alt="AECE">
   </div>
   <div class="project-body">
-    <h3 class="project-title">AECE <span style="font-weight:normal;">| <em>Key Researcher</em></span></h3>
-    <p class="project-meta"><em>Sep. 2015 – Dec. 2017</em></p>
+    <h3 class="project-title">AECE | <em>Key Researcher</em></h3>
+    <p class="project-meta"><em>Sep. 2015 - Dec. 2017</em></p>
     <p class="project-abstract">
-      <strong>Adaptive optimal estimation and control for automotive engine systems</strong>.
-      Investigated adaptive control and reinforcement learning for engine systems with EU partnerships.
+      <strong>Adaptive optimal estimation and control for automotive engine systems with approximate dynamic programming.</strong>
+      Investigated adaptive optimal control and reinforcement learning for engine systems, combining estimation, stability analysis,
+      and real-time learning toward practical implementation.
     </p>
-    <p><strong>Funding Source:</strong> EU FP7 Marie-Curie Fellowship.</p>
-    <p><strong>Amount:</strong> €231,000</p>
+    <p class="project-funding"><strong>Funding Source:</strong> EU FP7 Marie-Curie Fellowship</p>
+    <p class="project-funding"><strong>Amount:</strong> EUR 231,000</p>
   </div>
 </div>
