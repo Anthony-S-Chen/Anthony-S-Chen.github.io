@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{/images/Nuclear_Use_Cases3.jpeg" alt="ProbeFly">
+    <img src="{https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Encyclopedia%20cover.jpeg" alt="ProbeFly">
   </div>
   <div class="project-body">
     <h3 class="project-title">ProbeFly | <em>Principal Investigator</em></h3>
