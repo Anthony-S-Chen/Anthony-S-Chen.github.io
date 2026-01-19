@@ -14,27 +14,32 @@ author_profile: true
   align-items:flex-start;
   margin: 0 0 22px 0;
 }
-.project-fig{ flex: 0 0 170px; }
+.project-fig{
+  flex: 0 0 200px;
+}
 .project-fig img{
-  width:170px;
-  height:auto;
-  border:1px solid #ddd;
-  border-radius:6px;
+  width: 200px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
 }
 .project-body{ flex: 1 1 auto; }
-.project-title{ margin:0 0 6px 0; line-height:1.25; }
-.project-meta{ margin:0 0 8px 0; font-size:0.95em; opacity:0.85; }
-.project-abstract{ margin:0 0 10px 0; }
-.project-funding{ margin:0 0 4px 0; }
+.project-title{ margin: 0 0 6px 0; line-height: 1.25; }
+.project-meta{ margin: 0 0 8px 0; font-size: 0.95em; opacity: 0.85; }
+.project-abstract{ margin: 0 0 10px 0; }
+.project-funding{ margin: 0 0 4px 0; }
 @media (max-width: 640px){
-  .project-item{ flex-direction:column; }
-  .project-fig img{ width:100%; max-width:320px; }
+  .project-item{ flex-direction: column; }
+  .project-fig{ flex-basis: auto; }
+  .project-fig img{ width: 100%; max-width: 360px; }
 }
 </style>
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Nuclear_Use_Cases3.jpeg" alt="ProbeFly">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Nuclear_Use_Cases3.jpeg"
+         alt="ProbeFly figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">ProbeFly | <em>Principal Investigator</em></h3>
@@ -51,7 +56,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/raico_theme2.jpg" alt="RAICo Theme 2">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_RAICO.jpeg"
+         alt="RAICo figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">RAICo | <em>Co-Investigator</em></h3>
@@ -68,7 +75,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/ampi.jpg" alt="AMPI">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_AMPI.jpeg"
+         alt="AMPI figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">AMPI | <em>Key Researcher</em></h3>
@@ -85,7 +94,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/longops.jpg" alt="LongOps">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_LONGOPS.jpeg"
+         alt="LongOps figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">LongOps | <em>Key Researcher</em></h3>
@@ -102,7 +113,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/rain.jpg" alt="RAIN and RAIN+">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_RAIN.jpeg"
+         alt="RAIN figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">RAIN and RAIN+ | <em>Key Researcher</em></h3>
@@ -119,7 +132,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/adaptit.jpg" alt="ADAPT-IT">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_ADAPTIT.jpeg"
+         alt="ADAPT-IT figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">ADAPT-IT | <em>Key Researcher</em></h3>
@@ -136,7 +151,9 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/aece.jpg" alt="AECE">
+    <img style="border:1px solid #000000;"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/PLACEHOLDER_AECE.jpeg"
+         alt="AECE figure">
   </div>
   <div class="project-body">
     <h3 class="project-title">AECE | <em>Key Researcher</em></h3>
