@@ -73,7 +73,7 @@ author_profile: true
 
 [B1] **A. S. Chen**, T. Su, G. Herrmann, “[Control theory for sampled-data control](http://dx.doi.org/10.1016/B978-0-443-14081-5.00061-1),” in *Encyclopedia of Systems and Control Engineering*, Elsevier, 2025.
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Encyclopedia%20cover.jpeg"
        style="border:1px solid #000000; width:120px;">
 </p>
