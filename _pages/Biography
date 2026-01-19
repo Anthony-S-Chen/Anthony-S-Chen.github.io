@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: "Anthony Siming Chen - Biography"
+layout: archive
+title: "Biography"
+permalink: /Biography/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
+{% include base_path %}
 
 Anthony Siming Chen was born in Taiyuan, China. He earned his B.Eng. in Transportation Engineering (2015) at [Central South University](https://en.csu.edu.cn/) as a member of Shenghua Honors College under a 
 National Talent Program. During his undergraduate studies, he spent a one-year industrial placement at [CRRC](https://www.crrcgc.cc/en/) in China. After relocating to the United Kingdom, he obtained his M.Sc. in Advanced Mechanical Engineering (2016) and Ph.D. in Mechanical Engineering (2022) from the [University of Bristol](https://www.bristol.ac.uk/), where he conducted research within the [Dynamics and Control Research Group (DCRG)](https://www.bristol.ac.uk/engineering/research/dynamicscontrol/). I have held research and visiting positions with [The University of Manchester](https://www.manchester.ac.uk), the [Georgia Institute of Technology](https://www.gatech.edu/), the [Institute for Advanced Automotive Propulsion Systems (IAAPS)](https://iaaps.co.uk/) at the [University of Bath](https://www.bath.ac.uk/).
