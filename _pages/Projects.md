@@ -15,10 +15,10 @@ author_profile: true
   margin: 0 0 22px 0;
 }
 .project-fig{
-  flex: 0 0 200px;
+  flex: 0 0 400px;
 }
 .project-fig img{
-  width: 200px;
+  width: 400px;
   height: auto;
   border: 1px solid #ddd;
   border-radius: 6px;
