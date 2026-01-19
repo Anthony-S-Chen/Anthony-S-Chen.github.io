@@ -9,19 +9,19 @@ author_profile: true
 
 ## Journal Articles
 
-[J1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “[In-situ learning for optimal quadrotor control on SE(3)](#),” submitted, 2025.
+[J1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “In-situ learning for optimal quadrotor control on SE(3),” submitted, 2025.
 
-[J2] G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “[MBE-MPPI: Multi-Barrier-Enhanced Model Predictive Path Integral for Safe and Efficient Vehicle Navigation](#),” submitted, 2025.
+[J2] G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “MBE-MPPI: Multi-Barrier-Enhanced Model Predictive Path Integral for Safe and Efficient Vehicle Navigation,” submitted, 2025.
 
-[J3] O. F. Argin, E. J. Lopez Pulgarin, **A. S. Chen**, G. Herrmann, “[Safe shared control in manipulator teleoperation through control barrier functions](#),” submitted, 2025.
+[J3] O. F. Argin, E. J. Lopez Pulgarin, **A. S. Chen**, G. Herrmann, “Safe shared control in manipulator teleoperation through control barrier functions,” submitted, 2025.
 
-[J4] G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “[PIP-CN: Prediction-integrated planning for crowd navigation](#),” submitted, 2025.
+[J4] G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
 
-[J5] A. Islam, **A. S. Chen**, “[A game theoretic approach for handling uncertainties in quantum control](#),” submitted, 2025.
+[J5] A. Islam, **A. S. Chen**, “A game theoretic approach for handling uncertainties in quantum control,” submitted, 2025.
 
-[J6] **A. S. Chen**, E. J. Lopez Pulgarin, O. F. Argin, L. Li, J. Carrasco, G. Herrmann, A. Weightman, “[A safe-exploration scheme for glovebox robot learning](#),” submitted, 2025.
+[J6] **A. S. Chen**, E. J. Lopez Pulgarin, O. F. Argin, L. Li, J. Carrasco, G. Herrmann, A. Weightman, “A safe-exploration scheme for glovebox robot learning,” submitted, 2025.
 
-[J7] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “[Safe optimal observer design via Q-learning](#),” *IEEE Transactions on Automatic Control*, to appear, 2025.
+[J7] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” *IEEE Transactions on Automatic Control*, to appear, 2025.
 
 [J8] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, early access, pp. 1–13, 2025.
 
@@ -43,13 +43,13 @@ author_profile: true
 
 ## Conference Papers
 
-[C1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “[Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation](#),” submitted, 2025.
+[C1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
 
-[C2] **A. S. Chen**, K. G. Vamvoudakis, “[Continuous-time quantum reservoirs](#),” submitted, 2025.
+[C2] **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” submitted, 2025.
 
-[C3] **A. S. Chen**, S. Meng, Z. Li, “[In-situ learning in drones: Rethinking embodied intelligence without sim-to-real](#),” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, 2025. **(Accepted)**
+[C3] **A. S. Chen**, S. Meng, Z. Li, “In-situ learning in drones: Rethinking embodied intelligence without sim-to-real,” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, 2025. **(Accepted)**
 
-[C4] **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](#),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, 2025. **(Invited)**
+[C4] **A. S. Chen**, K. G. Vamvoudakis, “Robot learning optimal control via an adaptive critic reservoir,” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, 2025. **(Invited)**
 
 [C5] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, B. Carrera-Knowles, J. Brotherhood, T. Sakaue, K. Zhang, “[Dynamics-based trajectory planning for vibration suppression of a flexible long-reach robotic manipulator system](https://doi.org/10.1109/IROS58592.2024.10801636),” *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
