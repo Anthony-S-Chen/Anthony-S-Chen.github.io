@@ -49,7 +49,7 @@ author_profile: true
       The project develops micro-UAV autonomy for confined and degraded nuclear environments with minimal sensing,
       focusing on robust navigation, safety-aware control, and learning-based adaptation under uncertainty and partial observability.
     </p>
-    <p class="project-funding"><strong>Funding Source:</strong> RAICo: Robotics and Artificial Intelligence Collaboration</p>
+    <p class="project-funding"><strong>Funding Source:</strong> RAICo; UK Atomic Energy Authority (UKAEA)</p>
     <p class="project-funding"><strong>Amount:</strong> GBP £10,000</p>
   </div>
 </div>
@@ -68,7 +68,7 @@ author_profile: true
       The project targets vibration-aware planning and control for long-reach robot manipulation on flexible bases,
       enabling safer, faster task execution and improved stability in nuclear decommissioning scenarios.
     </p>
-    <p class="project-funding"><strong>Funding Source:</strong> RAICo; Sellafield Ltd.; Nuclear Decommissioning Authority (NDA)</p>
+    <p class="project-funding"><strong>Funding Source:</strong> RAICo; UK Atomic Energy Authority (UKAEA); Sellafield Ltd.; Nuclear Decommissioning Authority (NDA)</p>
     <p class="project-funding"><strong>Amount:</strong> GBP £150,000</p>
   </div>
 </div>
