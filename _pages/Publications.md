@@ -77,6 +77,6 @@ author_profile: true
 
 ## Theses
 
-[T1] **A. S. Chen**, “Adaptive optimal control via reinforcement learning: Theory and its application to automotive engine systems,” Ph.D. thesis, University of Bristol, 2021. https://research-information.bris.ac.uk/en/studentTheses/adaptive-optimal-control-via-reinforcement-learning
+[T1] **A. S. Chen**, “Adaptive optimal control via reinforcement learning: Theory and its application to automotive engine systems,” Ph.D. thesis, University of Bristol, 2022. https://research-information.bris.ac.uk/en/studentTheses/adaptive-optimal-control-via-reinforcement-learning
 
 [T2] **A. S. Chen**, “Torque estimation and air-fuel ratio control for internal combustion engines,” M.Sc. thesis, University of Bristol, 2016.
