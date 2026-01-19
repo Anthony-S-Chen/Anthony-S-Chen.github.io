@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="project-item">
   <div class="project-fig">
-    <img src="{{ base_path }}/assets/images/projects/probefly.jpg" alt="ProbeFly">
+    <img src="{/images/Nuclear_Use_Cases3.jpeg" alt="ProbeFly">
   </div>
   <div class="project-body">
     <h3 class="project-title">ProbeFly | <em>Principal Investigator</em></h3>
