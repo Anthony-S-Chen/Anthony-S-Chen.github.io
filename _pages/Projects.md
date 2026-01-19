@@ -50,7 +50,7 @@ author_profile: true
       focusing on robust navigation, safety-aware control, and learning-based adaptation under uncertainty and partial observability.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> RAICo: Robotics and Artificial Intelligence Collaboration</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 10,000</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £10,000</p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ author_profile: true
       enabling safer, faster task execution and improved stability in nuclear decommissioning scenarios.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> RAICo; Sellafield Ltd.; Nuclear Decommissioning Authority (NDA)</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 150,000</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £150,000</p>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ author_profile: true
       combining data-efficient adaptation with safety constraints for real-world deployment.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> UKRI; National Physical Laboratory (NPL); Advanced Machinery and Productivity Initiative (AMPI)</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 22,600,000</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £22,600,000</p>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ author_profile: true
       vibration suppression, and digital-twin-enabled teleoperation for safer remote operations.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> UK Atomic Energy Authority (UKAEA); SBRI - Digital technologies for robotic nuclear decommissioning</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 300,000</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £300,000</p>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ author_profile: true
       and reliable deployment in hazardous environments through academic and industrial collaboration.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> EPSRC</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 12,800,000 (RAIN); GBP 1,980,000 (RAIN+)</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £12,800,000 (RAIN); GBP £1,980,000 (RAIN+)</p>
   </div>
 </div>
 
@@ -145,7 +145,7 @@ author_profile: true
       improving performance and emissions robustness under uncertainty and transient operating conditions.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> Advanced Propulsion Centre (APC) UK</p>
-    <p class="project-funding"><strong>Amount:</strong> GBP 3,900,000</p>
+    <p class="project-funding"><strong>Amount:</strong> GBP £3,900,000</p>
   </div>
 </div>
 
@@ -164,6 +164,6 @@ author_profile: true
       and real-time learning toward practical implementation.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> EU FP7 Marie-Curie Fellowship</p>
-    <p class="project-funding"><strong>Amount:</strong> EUR 231,000</p>
+    <p class="project-funding"><strong>Amount:</strong> EUR £231,000</p>
   </div>
 </div>
