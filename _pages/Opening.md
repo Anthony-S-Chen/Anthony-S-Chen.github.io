@@ -71,7 +71,7 @@ In particular, I am curious about:
 - Adaptive optimal control: Merging optimality, stability, and robust uncertainty management. 
 - Efficient reinforcement learning: Achieving high performance with minimal data and computation, while prioritizing safety.
 
-<h3 align="center">“What is outside the simulation?”</h2> 
+<h3 align="center">“What's outside the simulation?”</h2> 
 
 The ultimate aim is to deepen our understanding of intelligence, philosophy, and even theology. Elon Musk once said, “One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.” By exploring human consciousness and humanity’s drive to reach the stars and space, we can build autonomous systems that are truly intelligent, safe, secure, and reliable. In Elon’s words, “I came to the conclusion that we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask. Really, the only thing that makes sense is to strive for greater collective enlightenment.”  This pursuit ties into why we venture into space: to preserve and expand the light of consciousness beyond Earth, and why we develop AI: to augment human potential and ensure biological intelligence evolves alongside digital advancements.  
 
