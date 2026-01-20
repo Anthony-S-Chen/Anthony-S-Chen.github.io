@@ -32,7 +32,7 @@ As module convenor, I design the curriculum, assessments, coursework projects, a
 
 ---
 
-## MMME2058 – Aircraft Dynamics and Control (Control Part)
+## MMME2058 – Aerospace Dynamics and Control (Control Part)
 
 **Level:** Year 2 Undergraduate  
 **Credits:** 20 (year-long core module)  
