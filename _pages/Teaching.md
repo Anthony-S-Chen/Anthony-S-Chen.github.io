@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching"
-permalink: /teaching/
+permalink: /Teaching/
 author_profile: true
 ---
 
@@ -14,17 +14,19 @@ I am an Assistant Professor in Aerospace Control in the Department of Electrical
 **Level:** Year 3 Undergraduate  
 **Credits:** 20  
 
-This module introduces the principles, architectures, and technologies underlying modern aircraft avionics systems. It combines theoretical foundations with practical system-level understanding.
+This module covers the principles, architectures, and technologies underlying modern aircraft avionics systems. It combines theoretical foundations with practical system-level understanding.
 
 **Main topics include:**
-- History and evolution of avionics systems  
-- Aircraft sensors and instrumentation  
-- Radar systems and navigation (VOR, DME, GPS, INS)  
-- Flight management systems and fly-by-wire  
-- Aircraft displays and human–machine interfaces  
-- Avionics data buses and system integration  
-- Electronic warfare and military avionics  
-- Case studies of real-world civil and military aircraft systems  
+- Basic concepts, history, and avionics architecture (LRUs, federated vs IMA, civil vs military avionics)
+- Radar I: pulse radar and positioning basics
+- Radar II: CW and FMCW radar systems
+- Flight control systems (fly-by-wire, autopilot, FMS, redundancy)
+- Avionics systems engineering (Industry Guest Lecture by Leonardo UK)
+- Navigation systems (GNSS, INS, and aircraft sensors)
+- Military avionics and mission systems
+- Human–machine interface and cockpit display systems
+- Avionics communication systems and cybersecurity
+- Advanced and emerging topics in avionics (e.g., spacecraft avionics, autonomy, eVTOL, UAV swarms) 
 
 As module convenor, I design the curriculum, assessments, coursework projects, and continuously update the content to reflect current industrial practice.
 
@@ -35,16 +37,28 @@ As module convenor, I design the curriculum, assessments, coursework projects, a
 **Level:** Year 2 Undergraduate  
 **Credits:** 20 (year-long core module)  
 
-This module introduces students to the fundamentals of flight dynamics and control systems for aircraft. I am responsible for the **control systems component** of the module.
+This module provides students with the fundamentals of flight dynamics and control systems for aircraft. I am responsible for the **control systems component** of the module.
 
-**Topics covered in my part include:**
-- Introduction to aerospace control systems  
-- Open-loop vs closed-loop control  
-- System modelling concepts for control  
-- Time-domain and frequency-domain analysis  
-- PID controller design for flight dynamics  
-- Lead–lag compensator design  
-- Introduction to modern control methods and aerospace applications  
+**Flight Dynamics topics:**
+- Introduction to flight dynamics
+- Longitudinal flight dynamics
+- Longitudinal flight modes
+- Lateral–directional flight dynamics
+- Lateral–directional flight modes
+- Roll and Dutch roll modes
+- Dutch roll and spiral modes
+- Review of flight dynamics
+
+**Control Systems topics:**
+- Introduction to control systems
+- System modelling and transfer function representation
+- Feedback control systems analysis
+- PID Control
+- Crandfield Flight Test - Field Trip
+- Routh–Hurwitz stability criterion
+- Control system simplification & design workflow
+- Aerospace control applications
+- Modern control and advanced topics
 
 The module emphasizes building physical intuition for feedback control, stability, and performance, supported by worked examples and aerospace case studies.
 
