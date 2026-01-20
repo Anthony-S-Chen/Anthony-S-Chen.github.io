@@ -67,9 +67,9 @@ My research aims to advance **embodied intelligence**: intelligence that emerges
 
 In particular, I focus on:
 
-- **In-situ learning**: Enabling robots to learn directly on hardware during real-world operation.
-- **Adaptive optimal control**: Merging optimality, stability, and robust uncertainty management. 
-- **Efficient reinforcement learning**: Achieving high performance with minimal data and computation, while prioritizing safety.
+- In-situ learning: Enabling robots to learn directly on hardware during real-world operation.
+- Adaptive optimal control: Merging optimality, stability, and robust uncertainty management. 
+- Efficient reinforcement learning: Achieving high performance with minimal data and computation, while prioritizing safety.
 
 The ultimate aim is to deepen our understanding of intelligence, philosophy, and even theology. As Elon Musk has emphasized, “The most important thing is to ask the right questions”—not just to find answers.  By exploring human consciousness and humanity’s drive to reach the stars and space, we can build autonomous systems that are truly intelligent, safe, secure, and reliable. In Musk’s words, “I came to the conclusion that we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask. Really, the only thing that makes sense is to strive for greater collective enlightenment.”  This pursuit ties into why we venture into space—to preserve and expand the light of consciousness beyond Earth—and why we develop AI: to augment human potential and ensure biological intelligence evolves alongside digital advancements.  
 
