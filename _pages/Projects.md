@@ -171,3 +171,9 @@ author_profile: true
     <p class="project-funding"><strong>Amount:</strong> EUR €231,000</p>
   </div>
 </div>
+
+
+### Business, Commercialization, and Outreach
+- RoboGlove (Founder): Innovation Award (£2,000) from [Innovation Academy](https://www.linkedin.com/in/uom-innovation-academy/?originalSubdomain=uk), The Masood Entrepreneurship Centre [(MEC)](https://www.entrepreneurship.manchester.ac.uk/), and Alliance Manchester Business School[(Alliance MBS)](https://www.alliancembs.manchester.ac.uk/);
+- J2W (Co-Founder, ex-CFO): £700,000 turnover in 2023;
+- Outreach: Exhibition Award £3,000 at Renold Innovation Hub, [ID Manchester](https://www.id-manchester.com/), from [Innovation Academy](https://www.linkedin.com/in/uom-innovation-academy/?originalSubdomain=uk); £1,000 outreach award in Faculty of Engineering, Unversity of Bristol.
