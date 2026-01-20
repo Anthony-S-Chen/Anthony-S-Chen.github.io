@@ -63,15 +63,17 @@ If you have questions regarding suitability or research direction, you are welco
 
 ## Research Vision
 
-My research aims to advance **embodied intelligence**—intelligence that emerges from the tight coupling between learning, control, and physical interaction with the real world.
+My research aims to advance **embodied intelligence**: intelligence that emerges from the tight coupling between learning, control, and physical interaction with the real world.
 
 In particular, I focus on:
 
-- **In-situ learning**, where systems learn directly on hardware during operation  
-- **Adaptive optimal control**, integrating performance, stability, and uncertainty handling  
-- **Efficient reinforcement learning**, enabling data-efficient and safe learning in physical systems  
+- **In-situ learning**: Enabling robots to learn directly on hardware during real-world operation.
+- **Adaptive optimal control**: Merging optimality, stability, and robust uncertainty management. 
+- **Efficient reinforcement learning**: Achieving high performance with minimal data and computation, while prioritizing safety.
 
-The long-term goal is to develop autonomous systems that are not only intelligent, but also **safe, reliable, interpretable, and deployable in safety-critical environments**, including aerospace, robotics, energy, and future quantum technologies.
+The ultimate aim is to deepen our understanding of intelligence, philosophy, and even theology. As Elon Musk has emphasized, “The most important thing is to ask the right questions”—not just to find answers.  By exploring human consciousness and humanity’s drive to reach the stars and space, we can build autonomous systems that are truly intelligent, safe, secure, and reliable. In Musk’s words, “I came to the conclusion that we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask. Really, the only thing that makes sense is to strive for greater collective enlightenment.”  This pursuit ties into why we venture into space—to preserve and expand the light of consciousness beyond Earth—and why we develop AI: to augment human potential and ensure biological intelligence evolves alongside digital advancements.  
+
+Drawing from Musk’s simulation hypothesis, where he argues there’s a “one in billions” chance we’re in base reality, AI could play a pivotal role in probing deeper existential questions.  If we are indeed in a simulation, what’s outside? Musk speculates that base reality might be “boring,” as simulations distill the most interesting aspects of existence.  He has even suggested that the first question to ask a superintelligent AI would be: “What’s outside the simulation?”   Through my research, we aim to develop AI systems capable of tackling such profound inquiries, bridging philosophy, consciousness, and advanced technology to uncover the nature of our reality.
 
 ---
 
