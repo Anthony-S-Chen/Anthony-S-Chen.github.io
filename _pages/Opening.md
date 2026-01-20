@@ -9,9 +9,11 @@ author_profile: true
 
 ## Open Positions
 
-I lead research on **embodied intelligence, in-situ learning, adaptive optimal control, and efficient reinforcement learning** at the intersection of control theory, robotics, and aerospace systems. My group develops learning-enabled control methods that are safe, data-efficient, and deployable on real physical platforms such as UAVs, robotic manipulators, and soft robotic systems.
+I am always interested in hearing from **outstanding and highly motivated prospective PhD students and postdoctoral researchers** who wish to work with me in any of the research areas listed below at the University of Nottingham.
 
-I am always interested in hearing from **outstanding and highly motivated prospective PhD students and postdoctoral researchers** who wish to work in these areas at the University of Nottingham.
+## Research Keywords (in alphabetical order)
+
+Adaptive optimal control, aero-engines, aerospace systems, autonomous systems, avionics, control theory, cyber-physical systems, drones, efficient learning, embodied intelligence, flight control, in situ learning, learning-based control, machine learning for control, nonlinear control, optimal control, physical reservoir computing, propulsion, propulsion systems, quantum control, quantum machine learning, quantum reservoir computing, reinforcement learning, reservoir computing, robot manipulators, robotic manipulation, robotics, robust control, safe learning, soft robot hands, UAVs.
 
 If you are interested, please feel free to contact me directly by email with your CV and a brief statement of research interests.
 
@@ -52,22 +54,24 @@ If you have questions regarding suitability or research direction, you are welco
 
 ---
 
-## Research Vision (Brief)
+## Past Openings (Examples)
 
-My research aims to advance **embodied intelligence**: intelligence that emerges from tight coupling between learning, control, and physical interaction with the real world. In particular, I am interested in:
-
-- **In-situ learning**: robots that learn directly on hardware during operation  
-- **Adaptive optimal control**: combining optimality, stability, and uncertainty handling  
-- **Efficient reinforcement learning**: minimizing data and computation while maintaining safety and performance  
-
-The long-term goal is to build autonomous systems that are truly intelligent, and also *safe and secure, reliable, interpretable, and deployable in safety-critical environments*.
+- PhD position: In-situ learning for autonomous aerial systems with energy-optimal control  
+- PhD position: Safe and robust reinforcement learning for embodied intelligence with control-theoretic foundations  
 
 ---
 
-## Past Openings (Examples)
+## Research Vision
 
-- PhD position: In-situ learning for autonomous aerial systems with energy-optimal control
-- PhD position: Safe and Robust Reinforcement Learning for Embodied Intelligence with Control-Theoretic Foundations
+My research aims to advance **embodied intelligence**—intelligence that emerges from the tight coupling between learning, control, and physical interaction with the real world.
+
+In particular, I focus on:
+
+- **In-situ learning**, where systems learn directly on hardware during operation  
+- **Adaptive optimal control**, integrating performance, stability, and uncertainty handling  
+- **Efficient reinforcement learning**, enabling data-efficient and safe learning in physical systems  
+
+The long-term goal is to develop autonomous systems that are not only intelligent, but also **safe, reliable, interpretable, and deployable in safety-critical environments**, including aerospace, robotics, energy, and future quantum technologies.
 
 ---
 
