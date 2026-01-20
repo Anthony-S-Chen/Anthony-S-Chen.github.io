@@ -122,8 +122,7 @@ author_profile: true
     <p class="project-meta"><em>Jan. 2022 - Jun. 2022</em></p>
     <p class="project-abstract">
       <strong>Robotics and Artificial Intelligence for Nuclear (RAIN) and RAIN+.</strong>
-      Contributed to robotics and AI efforts for nuclear decommissioning, supporting autonomy, remote intervention,
-      and reliable deployment in hazardous environments through academic and industrial collaboration.
+      Proposed an adaptive critic learning approach for two classes of optimal pure state transition problems for closed quantum systems.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> EPSRC</p>
     <p class="project-funding"><strong>Amount:</strong> GBP £12,800,000 (RAIN); GBP £1,980,000 (RAIN+)</p>
