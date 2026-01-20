@@ -144,7 +144,7 @@ author_profile: true
     <h3 class="project-title">ADAPT-IT | <em>Key Researcher</em></h3>
     <p class="project-meta"><em>Sep. 2017 - Dec. 2021</em></p>
     <p class="project-abstract">
-      <strong>Reducing vehicle carbon emissions through development of a compact, efficient and intelligent powertrain.</strong>
+      <strong>Reducing vehicle carbon emissions through development of a compact, efficient, and intelligent powertrain.</strong>
       The project developed adaptive estimation and learning-based optimal control methods for engine and powertrain systems,
       improving performance and emissions robustness under uncertainty and transient operating conditions.
     </p>
@@ -168,6 +168,6 @@ author_profile: true
       and real-time learning toward practical implementation.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> EU FP7 Marie-Curie Fellowship</p>
-    <p class="project-funding"><strong>Amount:</strong> EUR £231,000</p>
+    <p class="project-funding"><strong>Amount:</strong> EUR €231,000</p>
   </div>
 </div>
