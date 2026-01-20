@@ -156,7 +156,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AECE.jpeg"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AECE.jpg"
          alt="AECE figure">
   </div>
   <div class="project-body">
