@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research Group"
-permalink: /group/
+permalink: /Group/
 author_profile: true
 ---
 
