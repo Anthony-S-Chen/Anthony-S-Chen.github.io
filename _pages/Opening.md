@@ -61,7 +61,7 @@ If you have questions regarding suitability or research direction, you are welco
 
 ---
 
-## Research Vision
+## Research Vision and Philosophy
 <p align="center">
 <img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/elon.jpg">
 </p>
@@ -78,7 +78,9 @@ In particular, I am curious about:
 
 The ultimate goal is to deepen our understanding of the world via intelligence (not only as an engineering construct, but as a fundamental phenomenon arising from the interaction between learning, control, and the physical world). This pursuit naturally extends beyond engineering into philosophy and theology, touching on enduring questions about the nature of intelligence, consciousness, reality, and the existence of God.
 
-Elon Musk once said, “One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.” By exploring human consciousness and humanity’s drive to reach the stars and space, we can build autonomous systems that are truly intelligent, safe, secure, and reliable. In Elon’s words, “I came to the conclusion that we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask. Really, the only thing that makes sense is to strive for greater collective enlightenment.”  This pursuit ties into why we venture into space: to preserve and expand the light of consciousness beyond Earth, and why we develop AI: to augment human potential and ensure biological intelligence evolves alongside digital advancements.  
+Friedrich Nietzsche once wrote, “He who has a why to live can bear almost any how.” In the context of AI, this resonates strongly: powerful algorithms and hardware answer the how, but the why (purpose, values, and direction) remains a human responsibility. Without this, intelligence risks becoming optimization without meaning.
+
+Elon Musk also said, “One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.” By exploring human consciousness and humanity’s drive to reach the stars and space, we can build autonomous systems that are truly intelligent, safe, secure, and reliable. In Elon’s words, “I came to the conclusion that we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask. Really, the only thing that makes sense is to strive for greater collective enlightenment.”  This pursuit ties into why we venture into space: to preserve and expand the light of consciousness beyond Earth, and why we develop AI: to augment human potential and ensure biological intelligence evolves alongside digital advancements.  
 
 Drawing from Elon’s simulation hypothesis, where he argues there’s a “one in billions” chance we’re in base reality, AI could play a pivotal role in probing deeper existential questions. He has suggested that the first question to ask a superintelligent AI would be: “What’s outside the simulation?”  If we are indeed in a simulation, what’s outside? He speculates that base reality might be “boring,” as simulations distill the most interesting aspects of existence.  Through my research, we aim to develop AI systems capable of tackling such profound inquiries, bridging philosophy, consciousness, and advanced technology to uncover the nature of our reality.
 
