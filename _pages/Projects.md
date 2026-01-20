@@ -12,7 +12,12 @@ author_profile: true
   display:flex;
   gap:18px;
   align-items:flex-start;
-  margin: 0 0 22px 0;
+
+  margin: 0 0 28px 0;
+  padding: 18px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background: #fff;
 }
 .project-fig{
   flex: 0 0 500px;
