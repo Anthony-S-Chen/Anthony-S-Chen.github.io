@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Open Positions
+
 I am always interested in hearing from **outstanding and highly motivated prospective PhD students and postdoctoral researchers** who wish to work with me in any of the research areas listed below at the University of Nottingham.
 
 ## Research Keywords (in alphabetical order)
@@ -80,7 +82,7 @@ Drawing from Elon’s simulation hypothesis, where he argues there’s a “one 
 </p>
 ---
 
-## Disclaimer
+### Disclaimer
 
 If you wish to apply for a PhD or postdoctoral position with me, please do so **only through official university channels or by contacting me directly**.
 
