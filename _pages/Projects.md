@@ -76,7 +76,7 @@ author_profile: true
 <div class="project-item">
   <div class="project-fig">
     <img style="border:1px solid #000000;"
-         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AMPI_Video.gif"
+         src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AMPI_Video_small.gif"
          alt="AMPI figure">
   </div>
   <div class="project-body">
