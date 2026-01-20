@@ -26,8 +26,8 @@ author_profile: true
     <h3>Intelligent Drone Lab</h3>
     <ul>
       <li>Adam Bullock</li>
-      <li>Dev Kagdala</li> (Leonardo UK Placement)
-      <li>Devon Somy</li> (Rolls-Royce Placement)
+      <li>Dev Kagdala (Leonardo UK Placement)</li> 
+      <li>Devon Somy (Rolls-Royce Placement)</li> 
       <li>Zihang Zhu</li>
     </ul>
   </div>
@@ -35,7 +35,7 @@ author_profile: true
   <div class="group-card">
     <h3>Avionic Systems</h3>
     <ul>
-      <li>William Bulica</li> (Leonardo UK Placement)
+      <li>William Bulica (Leonardo UK Placement)</li> 
     </ul>
   </div>
 
