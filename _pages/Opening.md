@@ -54,7 +54,7 @@ If you have questions regarding suitability or research direction, you are welco
 
 ---
 
-## Past Openings (Examples)
+## Current and Past Openings (Examples)
 
 - PhD position: In-situ learning for autonomous aerial systems with energy-optimal control  
 - PhD position: Safe and robust reinforcement learning for embodied intelligence with control-theoretic foundations  
