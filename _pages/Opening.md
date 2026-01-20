@@ -7,89 +7,72 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-.opening-container {
-  max-width: 850px;
-  margin: 0 auto;
-  line-height: 1.65;
-  font-size: 1.05rem;
-}
-.opening-header {
-  font-size: 2.8rem;
-  font-weight: bold;
-  margin-bottom: 0.6rem;
-}
-.opening-subheader {
-  font-size: 1.4rem;
-  margin-bottom: 1.2rem;
-  color: #555;
-}
-.opening-quote {
-  font-style: italic;
-  margin: 1.5rem 0;
-  opacity: 0.85;
-  border-left: 4px solid #888;
-  padding-left: 1rem;
-  color: #444;
-}
-.opening-section {
-  margin-top: 1.8rem;
-}
-</style>
+## Open Positions
 
-<div class="opening-container">
+I lead research on **embodied intelligence, in-situ learning, adaptive optimal control, and efficient reinforcement learning** at the intersection of control theory, robotics, and aerospace systems. My group develops learning-enabled control methods that are safe, data-efficient, and deployable on real physical platforms such as UAVs, robotic manipulators, and soft robotic systems.
 
-<div class="opening-header">Welcome</div>
-<div class="opening-subheader">to the academic home of Anthony Siming Chen</div>
+I am always interested in hearing from **outstanding and highly motivated prospective PhD students and postdoctoral researchers** who wish to work in these areas at the University of Nottingham.
 
-<p>
-I am an Assistant Professor in Aerospace Control at the University of Nottingham,
-working at the intersection of control theory, machine learning, and robotics.
-My research tackles the design of intelligent, safe, and reliable systems that
-bridge rigorous mathematical principles with real-world engineering challenges
-in aerospace, autonomous systems, and complex robotic platforms.
-</p>
+If you are interested, please feel free to contact me directly by email with your CV and a brief statement of research interests.
 
-<div class="opening-quote">
-“Engineering is the art of directing the great sources of power in nature for
-the use and convenience of mankind.” – <em>Thomas Tredgold</em>
-</div>
+---
 
-<div class="opening-section">
-<h3>What I Do</h3>
-<p>
-My work aims to develop theory and methodology for learning-enabled control systems
-that are verifiable, robust, and applicable to real hardware. I build principled
-frameworks for embodied intelligence that unify adaptive learning, optimal control,
-and safety guarantees. My applications span:
-</p>
-<ul>
-  <li>Unmanned aerial and ground vehicles</li>
-  <li>Aero engines and propulsion systems</li>
-  <li>Robotic manipulation including soft-rigid end-effectors</li>
-  <li>Quantum systems and high-dimensional dynamics</li>
-</ul>
-</div>
+## Postdoctoral Opportunities
 
-<div class="opening-section">
-<h3>Approach</h3>
-<p>
-I believe in *theory with impact*: deep mathematical insights grounded in
-practical engineering problems. My research pairs rigorous analysis with
-simulation and real experiments. I actively collaborate with interdisciplinary
-teams in academia and industry to push the frontier in autonomous decision
-systems, safe adaptive control, and intelligent robotics.
-</p>
-</div>
+I am happy to support strong candidates applying for external postdoctoral fellowships, including (but not limited to):
 
-<div class="opening-section">
-<h3>Get Involved</h3>
-<p>
-If you are a student, researcher, or practitioner interested in control,
-robotics, or learning-enabled systems, feel free to explore my publications,
-projects, and teaching pages. I am always looking to connect with curious
-minds and collaborators.
-</p>
-</div>
+- UKRI Postdoctoral Fellowships  
+- Marie Skłodowska-Curie Postdoctoral Fellowships (MSCA-PF)  
+- Royal Academy of Engineering Research Fellowships  
+- EPSRC / industry-funded research associate positions  
 
-</div>
+If you are considering applying for a fellowship and would like to discuss potential topics, please get in touch.
+
+---
+
+## PhD Opportunities
+
+Fully funded and self-funded PhD positions are available through the University of Nottingham and associated doctoral training programs.
+
+Common funding routes include:
+
+- UKRI / EPSRC Doctoral Training Partnerships (DTP)  
+- Centre for Doctoral Training (CDT) programs in robotics, aerospace, or AI  
+- University of Nottingham scholarships  
+- School or Faculty doctoral scholarships  
+- For Chinese applicants: University–CSC joint PhD scholarships  
+
+Prospective students are encouraged to review:
+
+- Entry requirements for PhD study in Engineering / Computer Science  
+- English language requirements  
+- University of Nottingham graduate admissions pages  
+
+If you have questions regarding suitability or research direction, you are welcome to contact me before submitting a formal application.
+
+---
+
+## Research Vision (Brief)
+
+My research aims to advance **embodied intelligence**: intelligence that emerges from tight coupling between learning, control, and physical interaction with the real world. In particular, I am interested in:
+
+- **In-situ learning**: robots that learn directly on hardware during operation  
+- **Adaptive optimal control**: combining optimality, stability, and uncertainty handling  
+- **Efficient reinforcement learning**: minimizing data and computation while maintaining safety and performance  
+
+The long-term goal is to build autonomous systems that are truly intelligent, and also *safe and secure, reliable, interpretable, and deployable in safety-critical environments*.
+
+---
+
+## Past Openings (Examples)
+
+- PhD position: In-situ learning for autonomous aerial systems with energy-optimal control
+- PhD position: Safe and Robust Reinforcement Learning for Embodied Intelligence with Control-Theoretic Foundations
+
+---
+
+## Disclaimer
+
+If you wish to apply for a PhD or postdoctoral position with me, please do so **only through official university channels or by contacting me directly**.
+
+I do not accept applications submitted via commercial agencies, third-party platforms, or intermediaries without prior authorization.
