@@ -52,7 +52,7 @@ author_profile: true
     <p class="project-abstract">
       <strong>ProbeFly: Minimal-Sensor Micro-UAVs for Adaptive Nuclear Confined Space Exploration.</strong>
       The project develops micro-UAV autonomy for confined and degraded nuclear environments with minimal sensing,
-      focusing on robust navigation, safety-aware control, and learning-based adaptation under uncertainty and partial observability.
+      focusing on in-situ learning-based adaptation under uncertainty and partial observability.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> RAICo; UK Atomic Energy Authority (UKAEA)</p>
     <p class="project-funding"><strong>Amount:</strong> GBP £10,000</p>
@@ -127,7 +127,7 @@ author_profile: true
     <p class="project-meta"><em>Jan. 2022 - Jun. 2022</em></p>
     <p class="project-abstract">
       <strong>Robotics and Artificial Intelligence for Nuclear (RAIN) and RAIN+.</strong>
-      Proposed a reinforcement-learning-based control approach for two classes of optimal pure state transition problems for closed quantum systems.
+      Proposed a reinforcement-learning-based control approach for two classes of optimal pure state transition problems for closed quantum systems: i) when the target state is an eigenstate, and ii) when the target state is a superposition pure state.
     </p>
     <p class="project-funding"><strong>Funding Source:</strong> EPSRC</p>
     <p class="project-funding"><strong>Amount:</strong> GBP £12,800,000 (RAIN); GBP £1,980,000 (RAIN+)</p>
