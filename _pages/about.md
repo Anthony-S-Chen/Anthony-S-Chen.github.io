@@ -23,12 +23,12 @@ My research interests include Control Theory, Reinforcement Learning, Embodied I
 
 #I have led and contributed to a variety of research projects in intelligent control and robotics, focusing on the development and implementation of advanced control frameworks across multiple domains:
 - Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
-- Robotics: [T-RO2025], [RA-L2025], [TMECH2024], [IROS2024].
+- Robotics: [T-RO2026], [RA-L2025], [TMECH2024], [IROS2024].
 - Automotive and Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
 - Quantum systems: [L-CSS2024].
 
 <hr>
-### TMECH2024 Video
+### TMECH2025 Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3HQk8qZHFpA?si=LcR68d3ieKAA7PiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
