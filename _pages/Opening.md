@@ -75,6 +75,9 @@ The ultimate aim is to deepen our understanding of intelligence, philosophy, and
 
 Drawing from Elon’s simulation hypothesis, where he argues there’s a “one in billions” chance we’re in base reality, AI could play a pivotal role in probing deeper existential questions. He has suggested that the first question to ask a superintelligent AI would be: “What’s outside the simulation?”  If we are indeed in a simulation, what’s outside? Musk speculates that base reality might be “boring,” as simulations distill the most interesting aspects of existence.  Through my research, we aim to develop AI systems capable of tackling such profound inquiries, bridging philosophy, consciousness, and advanced technology to uncover the nature of our reality.
 
+<p align="center">
+<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/elon.jpg">
+</p>
 ---
 
 ## Disclaimer
