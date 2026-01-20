@@ -47,9 +47,10 @@ author_profile: true
   </div>
 
   <div class="group-card">
-    <h3>Postdoc Visitor</h3>
+    <h3>Academic/Postdoc Visitor</h3>
     <ul>
       <li>Zhongmou Li</li>
+      <li>Yufeng Sun</li>
     </ul>
   </div>
 
