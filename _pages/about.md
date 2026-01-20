@@ -7,17 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Electrical and Electronic Engineering, [University of Nottingham](https://www.nottingham.ac.uk/), U.K. I am affiliated with the [Mechanical and Aerospace Systems Research Group (MAS)](https://www.nottingham.ac.uk/research/groups/mas/index.aspx) and serve as an associate member of the [Institute for Aerospace Technology (IAT)](https://www.nottingham.ac.uk/aerospace/index.aspx). I hold an honorary academic position with the [Control Systems and Robotics Group (CSR)](https://uom-csrgroup.uk/) and the [Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/), the Department of Electrical and Electronic Engineering, [The University of Manchester](https://www.manchester.ac.uk), Manchester, UK. 
-
-At Nottingham, I contribute to teaching across the [MEng/BEng Aerospace Engineering](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2025/Aerospace-Engineering-MEng-Hons-U7UAERSE.html) programs, delivered jointly by the Departments of Mechanical, Materials and Manufacturing Engineering (M3) and Electrical and Electronic Engineering (EEE). I currently teach Control in MMME2058 Aerospace Dynamics and Control and EEEE3128 Avionic Systems.
-
-
-### Biography
-
-I received my B.Eng. (2015) in Transportation Engineering at [Central South University](https://en.csu.edu.cn/) as a member of Shenghua Honors College under a 
-National Talent Program. During my undergraduate studies, I spent a one-year industrial placement at [CRRC](https://www.crrcgc.cc/en/) in China. In 2015, I moved to the UK and obtained an M.Sc. (2017) in Advanced Mechanical Engineering and a Ph.D. (2022) in Mechanical Engineering from the [University of Bristol](https://www.bristol.ac.uk/), where I conducted research within the [Dynamics and Control Research Group (DCRG)](https://www.bristol.ac.uk/engineering/research/dynamicscontrol/). I have held research and visiting positions with [The University of Manchester](https://www.manchester.ac.uk), the [Georgia Institute of Technology](https://www.gatech.edu/), the [Institute for Advanced Automotive Propulsion Systems (IAAPS)](https://iaaps.co.uk/) at the [University of Bath](https://www.bath.ac.uk/).
-
-I am an IEEE Member of the [Control Systems Society (CSS)](https://www.ieeecss.org/) and the [Robotics and Automation Society (RAS)](https://www.ieee-ras.org/). I am a member of the IEEE CSS Technical Committee of Quantum Computing, Systems and Control, IEEE RAS Technical Committee on Robot Learning, IEEE RAS Technical Committee on Robotic Hands. I regularly review for leading journals and conferences in Control and Robotics, including IEEE TAC, Automatica, IEEE TCST, IEEE CDC, IEEE L-CSS, IEEE RA-L, IEEE T-RO, IROS, and ICRA.
+I am an Assistant Professor in Aerospace Engineering in the Department of Electrical and Electronic Engineering at the University of Nottingham. I hold secondary appointments in the Department of Mechanical, Materials, and Manufacturing Engineering (M3) and the School of Computer Science. I am a Member of the [Mechanical and Aerospace Systems Research Group (MAS)](https://www.nottingham.ac.uk/research/groups/mas/index.aspx), [Rolls-Royce UTC in Gas Turbine Transmission Systems](https://www.nottingham.ac.uk/utc-transmissionsys/index.aspx), and the [Institute for Aerospace Technology (IAT)](https://www.nottingham.ac.uk/aerospace/). I also hold an honorary research position with CSR at the University of Manchester. 
 
 ### Research
 
