@@ -21,7 +21,7 @@ author_profile: true
 
 [J6] **A. S. Chen**, E. J. Lopez Pulgarin, O. F. Argin, L. Li, J. Carrasco, G. Herrmann, A. Weightman, “A safe-exploration scheme for glovebox robot learning,” submitted, 2025.
 
-[J7] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” *IEEE Transactions on Automatic Control*, to appear, 2025.
+[J7] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” submitted, 2025.
 
 [J8] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, early access, pp. 1–13, 2025.
 
@@ -45,7 +45,7 @@ author_profile: true
 
 [C1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
 
-[C2] **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” submitted, 2025.
+[C2] **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, 2026.**(Accepted)**
 
 [C3] **A. S. Chen**, S. Meng, Z. Li, “In-situ learning in drones: Rethinking embodied intelligence without sim-to-real,” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, 2025. **(Accepted)**
 
