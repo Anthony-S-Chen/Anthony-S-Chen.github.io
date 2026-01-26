@@ -17,16 +17,16 @@ I am an Assistant Professor in Aerospace Control in the Department of Electrical
 This module covers the principles, architectures, and technologies underlying modern aircraft avionics systems. It combines theoretical foundations with practical system-level understanding.
 
 **Main topics include:**
-- Basic concepts, history, and avionics architecture (LRUs, federated vs IMA, civil vs military avionics)
-- Radar I: pulse radar and positioning basics
-- Radar II: CW and FMCW radar systems
+- Introduction to Avionics Systems (LRUs, federated vs IMA, civil vs military avionics)
+- Radar System I: pulse radar and positioning basics
+- Radar System II: CW and FMCW radar systems
 - Flight control systems (fly-by-wire, autopilot, FMS, redundancy)
-- Avionics systems engineering (Industry Guest Lecture by Leonardo UK)
+- Avionics Industry Talk (Guest Lecture by Leonardo UK)
 - Navigation systems (GNSS, INS, and aircraft sensors)
 - Military avionics and mission systems
-- Human–machine interface and cockpit display systems
+- Human–machine interface and cockpit systems
 - Avionics communication systems and cybersecurity
-- Advanced and emerging topics in avionics (e.g., spacecraft avionics, autonomy, eVTOL, UAV swarms) 
+- Unmanned Aerial Vehicles (UAVs) and Advanced Topics (e.g., spacecraft avionics, autonomy, eVTOL, UAV swarms) 
 
 As module convenor, I design the curriculum, assessments, coursework projects, and continuously update the content to reflect current industrial practice.
 
