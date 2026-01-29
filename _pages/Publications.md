@@ -45,27 +45,27 @@ author_profile: true
 
 [C1] **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
 
-[C2] **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, 2026.**(Accepted)**
+[C2] **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, New Orleans, LA, 2026.**(Accepted)**
 
-[C3] **A. S. Chen**, S. Meng, Z. Li, “In-situ learning in drones: Rethinking embodied intelligence without sim-to-real,” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, 2025. **(Accepted)**
+[C3] **A. S. Chen**, S. Meng, Z. Li, “In-situ learning in drones: Rethinking embodied intelligence without sim-to-real,” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, UK, 2025. **(Accepted)**
 
-[C4] **A. S. Chen**, K. G. Vamvoudakis, “Robot learning optimal control via an adaptive critic reservoir,” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, 2025. **(Invited)**
+[C4] **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](https://doi.org/10.1109/CDC57313.2025.11312880),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, pp. 3842-3847, Rio de Janeiro, Brazil, 2025. **(Invited)**
 
-[C5] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, B. Carrera-Knowles, J. Brotherhood, T. Sakaue, K. Zhang, “[Dynamics-based trajectory planning for vibration suppression of a flexible long-reach robotic manipulator system](https://doi.org/10.1109/IROS58592.2024.10801636),” *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
+[C5] **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, B. Carrera-Knowles, J. Brotherhood, T. Sakaue, K. Zhang, “[Dynamics-based trajectory planning for vibration suppression of a flexible long-reach robotic manipulator system](https://doi.org/10.1109/IROS58592.2024.10801636),” *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi, UAE, 2024.
 
-[C6] S. Li, Y. Zhang, **A. S. Chen**, Z. Zhang, P. Liu, “[Research on multi-robot collaborative SLAM algorithm based on factor graph optimization](https://doi.org/10.1007/978-981-96-1777-7_63),” *Proceedings of the 16th International Conference on Modelling, Identification and Control (ICMIC)*, pp. 584–598, 2024.
+[C6] S. Li, Y. Zhang, **A. S. Chen**, Z. Zhang, P. Liu, “[Research on multi-robot collaborative SLAM algorithm based on factor graph optimization](https://doi.org/10.1007/978-981-96-1777-7_63),” *Proceedings of the 16th International Conference on Modelling, Identification and Control (ICMIC)*, pp. 584–598, Datong, China, 2024.
 
-[C7] **A. S. Chen**, G. Herrmann, “[An adaptive critic learning approach for nonlinear optimal control subject to excitation and weight constraints](https://doi.org/10.1109/CDC49753.2023.10383309),” *Proceedings of the 62nd IEEE Conference on Decision and Control (CDC)*, pp. 2497–2502, 2023.
+[C7] **A. S. Chen**, G. Herrmann, “[An adaptive critic learning approach for nonlinear optimal control subject to excitation and weight constraints](https://doi.org/10.1109/CDC49753.2023.10383309),” *Proceedings of the 62nd IEEE Conference on Decision and Control (CDC)*, pp. 2497–2502, Marina Bay Sands, Singapore, 2023.
 
-[C8] **A. S. Chen**, G. Herrmann, S. Burgess, C. Brace, “[Output feedback speed control for a Wankel rotary engine via Q-learning](https://doi.org/10.1016/j.ifacol.2023.10.1014),” *IFAC-PapersOnLine*, vol. 56, no. 2, pp. 8278–8283, 2023.
+[C8] **A. S. Chen**, G. Herrmann, S. Burgess, C. Brace, “[Output feedback speed control for a Wankel rotary engine via Q-learning](https://doi.org/10.1016/j.ifacol.2023.10.1014),” *IFAC-PapersOnLine*, 22nd IFAC World Congress 2023, vol. 56, no. 2, pp. 8278–8283, Yokohama, Japan, 2023.
 
-[C9] **A. S. Chen**, G. Herrmann, “[Adaptive optimal control via continuous-time Q-learning for unknown nonlinear affine systems](https://doi.org/10.1109/CDC40024.2019.9030116),” *Proceedings of the 58th IEEE Conference on Decision and Control (CDC)*, pp. 1007–1012, 2019.
+[C9] **A. S. Chen**, G. Herrmann, “[Adaptive optimal control via continuous-time Q-learning for unknown nonlinear affine systems](https://doi.org/10.1109/CDC40024.2019.9030116),” *Proceedings of the 58th IEEE Conference on Decision and Control (CDC)*, pp. 1007–1012, Nice, France, 2019.
 
-[C10] **A. S. Chen**, J. Na, G. Herrmann, M. Turner, G. Vorraro, C. Brace, “[Nonlinear observer-based air-fuel ratio control for port fuel injected Wankel engines](https://doi.org/10.1109/CONTROL.2018.8516842),” *Proceedings of the UKACC 12th International Conference on Control (CONTROL)*, pp. 224–229, 2018.
+[C10] **A. S. Chen**, J. Na, G. Herrmann, M. Turner, G. Vorraro, C. Brace, “[Nonlinear observer-based air-fuel ratio control for port fuel injected Wankel engines](https://doi.org/10.1109/CONTROL.2018.8516842),” *Proceedings of the UKACC 12th International Conference on Control (CONTROL)*, pp. 224–229, Sheffield, UK, 2018.
 
-[C11] **A. S. Chen**, J. Na, G. Herrmann, R. Burke, C. Brace, “[Adaptive air-fuel ratio control for spark ignition engines with time-varying parameter estimation](https://doi.org/10.1109/ICMIC.2017.8321616),” *Proceedings of the IEEE International Conference on Modelling, Identification and Control (ICMIC)*, pp. 1074–1079, 2017. **(Best Student Paper)**
+[C11] **A. S. Chen**, J. Na, G. Herrmann, R. Burke, C. Brace, “[Adaptive air-fuel ratio control for spark ignition engines with time-varying parameter estimation](https://doi.org/10.1109/ICMIC.2017.8321616),” *Proceedings of the IEEE International Conference on Modelling, Identification and Control (ICMIC)*, pp. 1074–1079, Kunming, China, 2017. **(Best Student Paper)**
 
-[C12] T. Harding, C. Rames, H. Y. Teh, T. Mill, J. Na, **A. S. Chen**, G. Herrmann, “[Engine torque estimation with integrated unknown input observer and adaptive parameter estimator](https://doi.org/10.1016/j.ifacol.2017.08.2487),” *IFAC-PapersOnLine*, vol. 50, no. 1, pp. 11058–11063, 2017.
+[C12] T. Harding, C. Rames, H. Y. Teh, T. Mill, J. Na, **A. S. Chen**, G. Herrmann, “[Engine torque estimation with integrated unknown input observer and adaptive parameter estimator](https://doi.org/10.1016/j.ifacol.2017.08.2487),” *IFAC-PapersOnLine*, 20nd IFAC World Congress 2017, vol. 50, no. 1, pp. 11058–11063, Toulouse, France, 2017.
 
 ---
 
