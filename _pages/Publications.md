@@ -29,7 +29,7 @@ author_profile: true
 
 [J10] **A. S. Chen**, G. Herrmann, R. Islam, M. Turner, C. Brace, G. Vorraro, J. W. Turner, S. Burgess, N. Bailey, “[Effective emission control of aero-engines via nonlinear dual-estimators for uncertain states and parameters](https://doi.org/10.1016/j.ast.2025.110210),” *Aerospace Science and Technology*, vol. 142, p. 110210, 2025.
 
-[J11] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, J. Vijayan, “[Learning-based quantum control for optimal pure state manipulation](https://doi.org/10.1109/LCSYS.2024.3409671),” *IEEE Control Systems Letters*, vol. 8, pp. 1319–1324, 2024. **(Invited paper, presented at the 63rd IEEE Conference on Decision and Control, Milan, Italy, 2024.)**
+[J11] **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, J. Vijayan, “[Learning-based quantum control for optimal pure state manipulation](https://doi.org/10.1109/LCSYS.2024.3409671),” *IEEE Control Systems Letters*, vol. 8, pp. 1319–1324, 2024. **(Invited paper, presented at the 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, 2024.)**
 
 [J12] L. Li, D. Crosby, M. Shuttleworth, O. F. Argin, **A. S. Chen**, G. Herrmann, R. Kay, A. Weightman, “[A comparative analysis of soft-rigid and industrial parallel rigid grippers](https://doi.org/10.1002/aisy.202400503),” *Advanced Intelligent Systems*, vol. 6, no. 3, p. 2300329, 2024.
 
