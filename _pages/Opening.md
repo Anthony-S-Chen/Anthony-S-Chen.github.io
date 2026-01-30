@@ -11,6 +11,12 @@ author_profile: true
 
 I am always interested in hearing from **outstanding and highly motivated prospective PhD students and postdoctoral researchers** who wish to work with me in any of the research areas listed below at the University of Nottingham.
 
+Office: B113, Coates Building, University Park, Nottingham, NG7 2RD, United Kingdom
+
+Phone: +44 115 951 5151
+
+Email: a.chen@nottingham.ac.uk 
+
 ## Research Keywords (in alphabetical order)
 
 Adaptive optimal control, aerial robotics, aero-engines, aerospace systems, autonomous systems, avionics, control theory, cyber-physical systems, drones, efficient learning, embodied intelligence, flight control, in-situ learning, learning-based control, machine learning for control, neural networks, nonlinear control, optimal control, physical reservoir computing, propulsion systems, quantum control, quantum machine learning, quantum reservoir computing, reinforcement learning, reservoir computing, robot manipulators, robotics, robust control, spacecraft, safe learning, safety-critical control, soft robot hands, unmanned aerial vehicles (UAVs).
