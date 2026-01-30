@@ -10,7 +10,9 @@ redirect_from:
 I am an Assistant Professor in Aerospace Engineering in the Department of Electrical and Electronic Engineering at the [University of Nottingham](https://www.nottingham.ac.uk/). I hold secondary appointments in the Department of Mechanical, Materials, and Manufacturing Engineering (M3) and the School of Computer Science. I am a Member of the [Mechanical and Aerospace Systems Research Group (MAS)](https://www.nottingham.ac.uk/research/groups/mas/index.aspx), [Rolls-Royce UTC in Gas Turbine Transmission Systems](https://www.nottingham.ac.uk/utc-transmissionsys/index.aspx), and the [Institute for Aerospace Technology (IAT)](https://www.nottingham.ac.uk/aerospace/). I also hold an honorary research position at the Control Systems and Robotics Group (CSR) and the Centre for Robotics and AI at [The University of Manchester](https://www.manchester.ac.uk/).
 
 Office: B113, Coates Building, University Park, Nottingham, NG7 2RD, United Kingdom
+
 Phone: +44 115 951 5151
+
 Email: a.chen@nottingham.ac.uk 
 
 ### Research
