@@ -28,7 +28,7 @@ author:
   location         : "Nottingham, United Kingdom"
   employer         : "University of Nottingham"
   uri              : # URL
-  email            : "mailto:a.chen@nottingham.ac.uk" 
+  email            : mailto:a.chen@nottingham.ac.uk
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
