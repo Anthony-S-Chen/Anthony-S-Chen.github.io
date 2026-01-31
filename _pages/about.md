@@ -11,7 +11,7 @@ I am an Assistant Professor in Aerospace Engineering in the Department of Electr
 
 Office: B113, Coates Building, University Park, Nottingham, NG7 2RD, United Kingdom
 
-Phone: +44 115 951 5151
+Phone: +44 115-951-5151
 
 Email: a.chen@nottingham.ac.uk 
 
