@@ -27,10 +27,10 @@ My research lies at the intersection of **control theory**, **machine learning**
 <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/applications.png">
 </p>
 
-#I have led and contributed to a variety of research projects in intelligent control and robotics, focusing on the development and implementation of advanced control frameworks across multiple domains:
-- Control: Adaptive optimal control [TAC2025], [CDC2023], [CDC2019], [IJACSP2025].
-- Robotics: [T-RO2026], [RA-L2025], [TMECH2024], [IROS2024].
-- Aerospace systems: (Reinforcement)-Learning-based control [TCST2024][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
+#I have led and contributed to a variety of research projects in intelligent control and reinforcement learning, focusing on the development and implementation of advanced control frameworks across multiple domains:
+- Control: Adaptive optimal control [TAC2026], [CDC2023], [CDC2019], [IJACSP2025].
+- Aerospace systems: (Reinforcement)-Learning-based control [TCST2025][IFAC2023], Estimation (Observer) design [TVT2017][AST2024][TCST2019], Adaptive control [ICMIC2017], Dynamics modeling [SAE2020],[IFAC2017].
+  Robotics: [TMECH2024], [IROS2024], [CDC2025].
 - Quantum systems: [L-CSS2024].
 
 <hr>
