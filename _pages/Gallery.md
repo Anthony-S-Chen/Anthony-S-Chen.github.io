@@ -14,6 +14,17 @@ Photo taken at Alea Casino in Nottingham in January 2025.
 <img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Aerospace_dinner.jpg">
 </p>
 
+## Meeting of the IEEE Technical Committee on Quantum Computing, Systems and Control
+Photo taken at the 64th IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, December 2025
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/QuantumTC_Rio.jpg">
+</p>
+
+## Visiting Prof. Kyriakos G. Vamvoudakis's research group
+Photo taken at The Daniel Guggenheim School of Aerospace Engineering, Georgia Institute of Technology, Atlanta, May 2025.
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/GeorgiaTech.jpg">
+</p>
 
 ## CSR group banner and CRAI jacket
 Photo taken at the Nancy Rothwell Building (previous MECD) in May 2024.
@@ -33,7 +44,7 @@ Photo taken at the Alliance Manchester Business School in February 2024.
 ## PhD viva dinner
 Photo taken at the Browns after the PhD viva in Bristol in 2022. 
 <p align="center">
-<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/viva.jpeg">
+<img width="90%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/viva.jpeg">
 </p>
 
 ## Cambridge AIA
