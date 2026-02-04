@@ -14,10 +14,16 @@ Photo taken at Alea Casino in Nottingham in January 2025.
 <img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Aerospace_dinner.jpg">
 </p>
 
-## Meeting of the IEEE Technical Committee on Quantum Computing, Systems and Control
+## Annual Meeting of IEEE Technical Committee on Quantum Computing, Systems and Control
 Photo taken at the 64th IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, December 2025
 <p align="center">
 <img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/QuantumTC_Rio.jpg">
+</p>
+
+## Summer Research Placements Showcase of Institute of Aerospace Technology, Rolls-Royce, Dassault Systèmes, ITP Aero
+Photo taken at the Pope Building in September 2025.
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/IAT.jpg">
 </p>
 
 ## Visiting Prof. Kyriakos G. Vamvoudakis's research group
