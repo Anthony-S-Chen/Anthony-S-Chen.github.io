@@ -11,7 +11,7 @@ author_profile: true
 ## Aerospace Students & Faculty Dinner 
 Photo taken at Alea Casino in Nottingham in January 2025.
 <p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Aerospace_dinner.jpg">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Aerospace_dinner.jpg">
 </p>
 
 
