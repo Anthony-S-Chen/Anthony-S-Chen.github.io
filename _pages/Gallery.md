@@ -33,7 +33,7 @@ Photo taken at the Alliance Manchester Business School in February 2024.
 ## PhD viva dinner
 Photo taken at the Browns after the PhD viva in Bristol in 2022. 
 <p align="center">
-<img style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/viva.jpeg">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/viva.jpeg">
 </p>
 
 ## Cambridge AIA
