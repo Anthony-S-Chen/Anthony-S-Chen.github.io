@@ -24,11 +24,11 @@ main:
   - title: "Teaching"
     url: /Teaching/
 
-  - title: "Gallery"
-    url: /Gallery/
-
   - title: "Opening"
     url: /Opening/
+
+  - title: "Gallery"
+    url: /Gallery/
 
   # - title: "Talks"
   #   url: /talks/    
