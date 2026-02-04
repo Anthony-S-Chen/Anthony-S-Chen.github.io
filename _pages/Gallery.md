@@ -24,7 +24,7 @@ Photo taken at the Nancy Rothwell Building (previous MECD) in May 2024.
 ## Winning Innovation Award
 Photo taken at the Alliance Manchester Business School in February 2024.
 <p align="center">
-<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/R2I.jpeg">
+<img width="90%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/R2I.jpeg">
 </p>
 <p align="center">
 <img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/R2Iaward.jpeg">
@@ -52,7 +52,7 @@ Photo taken at the University of Bath in 2019.
 ## Profile photo
 
 <p align="center">
-<img width="30%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Chen_Profile.jpeg">
+<img width="50%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Chen_Profile.jpeg">
 </p>
 
 
