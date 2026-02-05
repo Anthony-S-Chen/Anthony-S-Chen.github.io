@@ -19,7 +19,7 @@ Email: a.chen@nottingham.ac.uk
 
 ## Research Keywords (in alphabetical order)
 
-Adaptive optimal control, aerial robotics, aero-engines, aerospace systems, autonomous systems, avionics, control theory, cyber-physical systems, drones, efficient learning, embodied intelligence, flight control, in-situ learning, learning-based control, machine learning for control, neural networks, nonlinear control, optimal control, physical reservoir computing, propulsion systems, quantum control, quantum machine learning, quantum reservoir computing, reinforcement learning, reservoir computing, robot manipulators, robotics, robust control, spacecraft, safe learning, safety-critical control, soft robot hands, unmanned aerial vehicles (UAVs).
+Adaptive optimal control, aerial robotics, aero-engines, aerospace systems, autonomous systems, avionics, control theory, cyber-physical systems, drones, efficient learning, embodied intelligence, flight control, game theory, in-situ learning, learning-based control, machine learning for control, neural networks, nonlinear control, optimal control, physical reservoir computing, propulsion systems, quantum control, quantum machine learning, quantum reservoir computing, reinforcement learning, reservoir computing, robot manipulators, robotics, robust control, spacecraft, safe learning, safety-critical control, soft robot hands, unmanned aerial vehicles (UAVs).
 
 If you are interested, please feel free to contact me directly by email with your CV and a brief statement of research interests.
 
