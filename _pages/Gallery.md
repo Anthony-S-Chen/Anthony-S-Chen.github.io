@@ -26,7 +26,7 @@ Photo taken at the Pope Building in September 2025.
 <img width="80%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/IAT.jpg">
 </p>
 
-## Visiting Prof. Kyriakos G. Vamvoudakis's research group
+## Visiting Prof. Kyriakos G. Vamvoudakis's research group, Daniel Guggenheim School of Aerospace Engineering, Georgia Institute of Technology
 Photo taken at The Daniel Guggenheim School of Aerospace Engineering, Georgia Institute of Technology, Atlanta, May 2025.
 <p align="center">
 <img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/GeorgiaTech.jpg">
