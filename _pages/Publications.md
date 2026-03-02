@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 ## Journal Articles
 
 {% for pub in site.data.publications.journals %}
