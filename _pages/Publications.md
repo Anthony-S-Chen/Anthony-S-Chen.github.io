@@ -8,6 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
+## Book Chapters
+
+{% for pub in site.data.publications.books %}
+<p>[B{{ forloop.index }}] {{ pub.text | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+{% if pub.extra_html %}
+{{ pub.extra_html }}
+{% endif %}
+{% endfor %}
+
+---
+
 ## Journal Articles
 
 {% for pub in site.data.publications.journals %}
@@ -20,17 +31,6 @@ author_profile: true
 
 {% for pub in site.data.publications.conferences %}
 <p>[C{{ forloop.index }}] {{ pub.text | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-{% endfor %}
-
----
-
-## Book Chapters
-
-{% for pub in site.data.publications.books %}
-<p>[B{{ forloop.index }}] {{ pub.text | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-{% if pub.extra_html %}
-{{ pub.extra_html }}
-{% endif %}
 {% endfor %}
 
 ---
