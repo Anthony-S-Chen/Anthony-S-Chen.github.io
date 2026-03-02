@@ -22,7 +22,7 @@ This module covers the principles, architectures, and technologies underlying mo
 - Radar System II: CW and FMCW radar systems
 - Flight control systems
 - Avionics Industry Talk (Guest Lecture by Leonardo UK)
-- Navigation systems
+- Positioning and Navigation systems
 - Military avionics and mission systems
 - Human–machine interface and cockpit systems
 - Avionics communication systems and cybersecurity
