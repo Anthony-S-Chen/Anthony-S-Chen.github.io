@@ -46,6 +46,9 @@ journals:
 
 conferences:
   - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “Risk-Bounded Predictive Control for Automated Vehicles in Shared-Space Area,” submitted, 2026.
+      
+  - text: >-
       **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
 
   - text: >-
