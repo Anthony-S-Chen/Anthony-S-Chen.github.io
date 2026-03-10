@@ -17,8 +17,8 @@ author_profile: true
   <div class="group-card">
     <h3>PhD Students</h3>
     <ul>
-      <li>Guolin Yang</li>
-      <li>Yan Zhao</li>
+      <li>Guolin Yang (The University of Manchester)</li>
+      <li>Yan Zhao (PEMC)</li>
     </ul>
   </div>
 
