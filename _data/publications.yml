@@ -30,14 +30,17 @@ journals:
       **A. S. Chen**, G. Herrmann, R. Islam, M. Turner, C. Brace, G. Vorraro, J. W. Turner, S. Burgess, N. Bailey, “[Effective emission control of aero-engines via nonlinear dual-estimators for uncertain states and parameters](https://doi.org/10.1016/j.ast.2025.110210),” *Aerospace Science and Technology*, vol. 142, p. 110210, 2025.
 
   - text: >-
+      A. Islam, **A. S. Chen**, G. Herrmann, “[A Q-learning algorithm to solve the two-player zero-sum game problem for nonlinear systems](https://doi.org/10.1002/acs.3958),” *International Journal of Adaptive Control and Signal Processing*, vol. 39, no. 3, pp. 566–581, 2025.
+      
+  - text: >-
       **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, J. Vijayan, “[Learning-based quantum control for optimal pure state manipulation](https://doi.org/10.1109/LCSYS.2024.3409671),” *IEEE Control Systems Letters*, vol. 8, pp. 1319–1324, 2024. (Also presented at the 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, 2024.) **(Invited paper)**
 
   - text: >-
       L. Li, D. Crosby, M. Shuttleworth, O. F. Argin, **A. S. Chen**, G. Herrmann, R. Kay, A. Weightman, “[A comparative analysis of soft-rigid and industrial parallel rigid grippers](https://doi.org/10.1002/aisy.202400503),” *Advanced Intelligent Systems*, vol. 6, no. 3, p. 2300329, 2024.
-
+      
   - text: >-
-      A. Islam, **A. S. Chen**, G. Herrmann, “[A Q-learning algorithm to solve the two-player zero-sum game problem for nonlinear systems](https://doi.org/10.1002/acs.3958),” *International Journal of Adaptive Control and Signal Processing*, vol. 39, no. 3, pp. 566–581, 2023.
-
+      **A. S. Chen**, G. Vorraro, M. Turner, R. Islam, G. Herrmann, S. Burgess, C. Brace, J. Turner, N. Bailey, “[Control-oriented modelling of a Wankel rotary engine: A synthesis approach of state space and neural networks](https://doi.org/10.4271/2020-01-0253),” *SAE Technical Paper*, no. 2020-01-0253, 2020.
+  
   - text: >-
       J. Na, **A. S. Chen**, Y. Huang, A. Agarwal, A. Lewis, G. Herrmann, R. Burke, C. Brace, “[Air-fuel ratio control of spark ignition engines with unknown system dynamics estimator](https://doi.org/10.1109/TCST.2019.2951125),” *IEEE Transactions on Control Systems Technology*, vol. 29, no. 2, pp. 786–793, 2019.
 
@@ -46,7 +49,7 @@ journals:
 
 conferences:
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “Risk-Bounded Predictive Control for Automated Vehicles in Shared-Space Area,” submitted, 2026.
+      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “Risk-bounded predictive control for automated vehicles in shared-space area,” submitted, 2026.
       
   - text: >-
       **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
