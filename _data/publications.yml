@@ -1,18 +1,18 @@
 journals:
   - text: >-
-      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “In-situ learning for optimal quadrotor control on SE(3),” submitted, 2025.
+      A. Islam, **A. S. Chen**, “Universal post-measurement quantum control under adversarial Hamiltonian uncertainty via Isaacs differential games,” submitted, 2026.
+  
+  - text: >-
+      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “In-situ learning for optimal quadrotor control on SE(3),” submitted, 2026.
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “MBE-MPPI: Multi-Barrier-Enhanced Model Predictive Path Integral for Safe and Efficient Vehicle Navigation,” submitted, 2025.
+      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “MBE-MPPI: Multi-Barrier-Enhanced Model Predictive Path Integral for Safe and Efficient Vehicle Navigation,” submitted, 2026.
 
   - text: >-
       O. F. Argin, E. J. Lopez Pulgarin, **A. S. Chen**, G. Herrmann, “Safe shared control in manipulator teleoperation through control barrier functions,” submitted, 2025.
 
   - text: >-
       G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
-
-  - text: >-
-      A. Islam, **A. S. Chen**, “A game theoretic approach for handling uncertainties in quantum control,” submitted, 2025.
 
   - text: >-
       **A. S. Chen**, E. J. Lopez Pulgarin, O. F. Argin, L. Li, J. Carrasco, G. Herrmann, A. Weightman, “A safe-exploration scheme for glovebox robot learning,” submitted, 2025.
@@ -48,6 +48,16 @@ journals:
       J. Na, **A. S. Chen**, G. Herrmann, R. Burke, C. Brace, “[Vehicle engine torque estimation via unknown input observer and adaptive parameter estimation](https://doi.org/10.1109/TVT.2017.2737440),” *IEEE Transactions on Vehicular Technology*, vol. 67, no. 1, pp. 409–422, 2017.
 
 conferences:
+
+  - text: >-
+      **A. S. Chen**, K. Nakajima, K. G. Vamvoudakis, “Reservoir computing for adaptive control under matched uncertainty,” submitted, 2026.
+
+  - text: >-
+      **A. S. Chen**, K. G. Vamvoudakis, “Certifiable safe quantum control against reward hacking,” submitted, 2026.
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “A safety framework for uncertainty-aware model predictive path integral control in shared-space navigation,” submitted, 2026.
+      
   - text: >-
       G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “Risk-bounded predictive control for automated vehicles in shared-space area,” submitted, 2026.
       
