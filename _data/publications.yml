@@ -12,9 +12,6 @@ journals:
       O. F. Argin, E. J. Lopez Pulgarin, **A. S. Chen**, G. Herrmann, “Safe shared control in manipulator teleoperation through control barrier functions,” submitted, 2025.
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
-
-  - text: >-
       B. Jia, J. Zhao, J. Na, **A. S. Chen**, Q. Zeng, “Model-free output-feedback optimal control of nonlinear systems,” submitted, 2025.
 
   - text: >-
@@ -68,10 +65,13 @@ conferences:
       **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
 
   - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
+
+  - text: >-
       **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, New Orleans, LA, 2026. **(Accepted)**
 
   - text: >-
-      **A. S. Chen**, S. Meng, Z. Li, “In-situ learning in drones: Rethinking embodied intelligence without sim-to-real,” *Proceedings of the Embodied Intelligence Conference (EI)*, Cambridge, UK, 2025. **(Accepted)**
+      **A. S. Chen**, S. Meng, Z. Li, “[In-situ learning in drones: Rethinking embodied intelligence without sim-to-real](https://doi.org/10.1088/1757-899X/1343/1/012015),” *Proceedings of 5th International Conference on Embodied Intelligence (EI 2025)*, Cambridge, UK, 2025.
 
   - text: >-
       **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](https://doi.org/10.1109/CDC57313.2025.11312880),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, pp. 3842-3847, Rio de Janeiro, Brazil, 2025. **(Invited)**
