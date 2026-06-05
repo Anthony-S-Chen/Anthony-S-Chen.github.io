@@ -4,9 +4,6 @@ journals:
   
   - text: >-
       B. Jia, J. Zhao, **A. S. Chen**, S. Song, Q. Zeng, “Adaptive Optimal Output-Feedback Control for Valve-Pump Electro-Hydraulic Systems,” submitted, 2026.
-      
-  - text: >-
-      A. Islam, **A. S. Chen**, “Universal post-measurement quantum control under adversarial Hamiltonian uncertainty via Isaacs differential games,” submitted, 2026.
   
   - text: >-
       **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “In-situ learning for optimal quadrotor control on SE(3),” submitted, 2026.
@@ -25,6 +22,9 @@ journals:
 
   - text: >-
       **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” submitted, 2025.
+
+    - text: >-
+      A. Islam, **A. S. Chen**, “Universal post-measurement quantum control under adversarial Hamiltonian uncertainty via Isaacs differential games,” *IEEE Control Systems Letters*, 2026. (Also presented at the 65th IEEE Conference on Decision and Control (CDC), Honolulu, Hawaii, United States, 2026.) **(Invited paper)**
 
   - text: >-
       **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, early access, pp. 1–13, 2025.
@@ -74,7 +74,7 @@ conferences:
       G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
 
   - text: >-
-      **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, New Orleans, LA, United States, 2026. **(Accepted)**
+      **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, New Orleans, Louisiana, United States, 2026. **(Accepted)**
 
   - text: >-
       **A. S. Chen**, S. Meng, Z. Li, “[In-situ learning in drones: Rethinking embodied intelligence without sim-to-real](https://doi.org/10.1088/1757-899X/1343/1/012015),” *Proceedings of 5th International Conference on Embodied Intelligence (EI 2025)*, Vol. 1343, 012015, Cambridge (Online), United Kingdom, 2025.
