@@ -17,7 +17,7 @@ Email: a.chen@nottingham.ac.uk
 
 ### Research
 
-My research lies at the intersection of **control theory**, **machine learning**, and **robotics**, with a particular emphasis on **embodied intelligence** and safe learning-based control for complex real-world systems. My work spans a broad spectrum of applications in unmanned aerial vehicles (UAVs), propulsion systems, aero-engines, robot manipulators, soft/rigid robotic hands, and quantum systems. 
+My research lies at the intersection of **control theory**, **machine learning**, and **robotics**, with a particular emphasis on real-time safe learning-based control for complex real-world systems. My work spans a broad spectrum of applications in unmanned aerial vehicles (UAVs), propulsion systems, aero-engines, nuclear robotics, quantum systems, and defence-relevant autonomous technologies.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Research_scope2026.jpg">
