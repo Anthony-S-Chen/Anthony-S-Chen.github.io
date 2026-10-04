@@ -23,7 +23,7 @@ Photo taken at the Sister Building in Manchester in September 2026.
 ## Meeting Professor Jane Norman, Vice-Chancellor and President of the University of Nottingham, at the University of Nottingham Ningbo Campus (UNNC)
 Photo taken in UNNC, Ningbo, China in July 2026.
 <p align="center">
-<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Jane_Norman.jpeg">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/JaneNorman.jpeg">
 </p>
 
 ## Aerospace Students & Faculty Dinner 
