@@ -27,9 +27,6 @@ journals:
       D. Li, Y. Zhao, **A. S. Chen**, and T. Yang, “A digital-twin-oriented closed-loop co-simulation platform for electric-propulsion aircraft design,” submitted, 2026.
 
   - text: >-
-      **A. S. Chen** and K. G. Vamvoudakis, “Contractive reservoir adaptive control under fading-memory uncertainty,” submitted, 2026.
-
-  - text: >-
       **A. S. Chen** and K. G. Vamvoudakis, “Reward hacking in adaptive optimal control,” submitted, 2026.
 
   - text: >-
@@ -58,7 +55,7 @@ journals:
 
   # Published and conditionally accepted journal articles
   - text: >-
-      **A. S. Chen**, G. Herrmann, and K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” *IEEE Transactions on Automatic Control*, conditionally accepted, 2026.
+      **A. S. Chen**, G. Herrmann, and K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” *IEEE Transactions on Automatic Control*, submitted, 2026.
 
   - text: >-
       A. Islam and **A. S. Chen**, “[Universal post-measurement quantum control under adversarial hamiltonian uncertainty via Isaacs differential games](https://doi.org/10.1109/LCSYS.2026.3704990),” *IEEE Control Systems Letters*, early access, 2026. (Also presented at the 65th IEEE Conference on Decision and Control (CDC), Honolulu, Hawaii, United States, 2026.) **(Invited paper)**
