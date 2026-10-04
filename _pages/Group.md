@@ -20,16 +20,51 @@ author_profile: true
 ## Current PhD Students
 
 - **[Guolin Yang](https://guolinyang.github.io/)**  
-  **Model-Based Reinforcement Learning for Predictive Autonomous Systems**
+  *Model-Based Reinforcement Learning for Predictive Autonomous Systems*
   *Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio*
-  Alma mater: The University of Manchester, UK
+  Alma mater: *The University of Manchester, UK*
 
 - **Yan Zhao**  
-  **Digital Twin for Aerospace Distributed Electric Propulsion Systems**
+  *Digital Twin for Aerospace Distributed Electric Propulsion Systems*
   *Co-supervised with Prof. Tao Yang and Prof. Mark Jabbal*
-  Alma mater: Nanjing University of Aeronautics and Astronautics, China
+  Alma mater: *Nanjing University of Aeronautics and Astronautics, China*
 
-## Recent MEng Alumni
+## Current MEng Students
+
+- **Abdur-Rafey Faisal**, 2027  
+  MEng project (with *Leonardo UK*): *TBC - Game theory*  
+
+
+- **Shaan Rana**, 2027  
+  MEng project: *TBC - Swarm UAVs*  
+
+
+- **Jacob Dorman**, 2027  
+  MEng project (with *Leonardo UK*): *TBC - Game theory*
+
+
+- **Juyi Yang**, 2027  
+  MEng project: *TBC - Game theory*
+
+
+- **Benjamin Stevens**, 2027  
+  MEng project: *TBC - Fault-Tolerant Control*  
+
+
+- **Gemma Read**, 2027  
+  MEng project: *TBC - Fault-Tolerant Control*
+
+
+- **Ryuichi Nakamura**, 2027  
+  MEng project: *TBC - LLM, Onboarding computing for Drones*  
+
+
+- **Sofia Shakespeare Diaz**, 2027  
+  MEng project: *TBC - Game theory, Defence*  
+
+
+
+## Recent MEng/BEng Alumni
 
 - **Adam Bullock**, 2026  
   MEng project: *Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities*  
@@ -42,8 +77,6 @@ author_profile: true
 - **William Bulica**, 2026  
   MEng project (with *Leonardo UK*): *Is It Possible to Detect Supersonic Aircraft Using Passive Radars?*  
   First position: *Graduate Systems Engineer, Leonardo UK*
-
-## Recent BEng Alumni
 
 - **Dev Kagdala**, 2026  
   BEng project: *Safety-Critical Control of Unmanned Aerial Vehicles (UAVs) in Confined Nuclear Spaces using Control Barrier Functions (CBFs)*  
