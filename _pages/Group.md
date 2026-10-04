@@ -20,8 +20,8 @@ author_profile: true
 ## Current PhD Students
 
 - **[Guolin Yang](https://guolinyang.github.io/)**  
-  **Model-Based Reinforcement Learning for Predictive Autonomous Systems**  
-  Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio 
+  **Model-Based Reinforcement Learning for Predictive Autonomous Systems**   
+  Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio  
   Alma mater: *The University of Manchester, UK*
 
 - **Yan Zhao**  
