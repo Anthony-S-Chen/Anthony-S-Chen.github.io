@@ -21,7 +21,7 @@ author_profile: true
 
 - **[Guolin Yang](https://guolinyang.github.io/)**  
   **Model-Based Reinforcement Learning for Predictive Autonomous Systems**
-  Jointly with Prof. Guido Herrmann and Prof. Alessandra Parisio
+  Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio
   Alma mater: The University of Manchester, UK
 
 - **Yan Zhao**  
@@ -32,7 +32,7 @@ author_profile: true
 ## Recent MEng Alumni
 
 - **Adam Bullock**, 2026  
-  **MEng project:** Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities  
+  *MEng project:* Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities  
   **First position:** Graduate Aircraft Design Engineer, STC Twenty One
 
 - **Devon Somy**, 2026  
