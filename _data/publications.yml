@@ -94,3 +94,95 @@ conferences:
   # Submitted conference articles
   - text: >-
       Y. Wang and **A. S. Chen**, “Continuous-time adaptive reservoir learning for safe robot control,” **(Submitted)**, 2026.
+
+  - text: >-
+      Y. Wang, N. Pushparaj, C. Cappelletti, and **A. S. Chen**, “Safe release control for small-body landing via attitude-dependent invariant sets,” **(Submitted)**, 2026.
+
+  - text: >-
+      S. S. Meng and **A. S. Chen**, “Fading-memory reservoir adaptive control of partially observed FitzHugh-Nagumo networks,” **(Submitted)**, 2026.
+
+  - text: >-
+      S. S. Meng and **A. S. Chen**, “Adaptive spike-based control for wall-probing aerial robots,” **(Submitted)**, 2026.
+
+  # Published and accepted conference articles
+  - text: >-
+      W. K. Bulica and **A. S. Chen**, “Is It Possible to Detect Supersonic Aircraft Using Passive Radars?,” *AIAA SciTech Forum*, 2027. **(Accepted)**
+
+  - text: >-
+      S. Rout and **A. S. Chen**, “Cross-Dataset Free-Run Validation of Data-Driven Dynamic Models for Small Turbojet Digital Twins,” *AIAA SciTech Forum*, 2027. **(Accepted)**
+
+  - text: >-
+      Y. Zhao, **A. S. Chen**, M. Jabbal, and T. Yang, “Flight-Log-Driven Physics-Structured Reservoir Computing for Drift-Resilient UAV Digital Twins,” *AIAA SciTech Forum*, 2027. **(Accepted)**
+
+  - text: >-
+      Y. Zhao, **A. S. Chen**, M. Jabbal, D. Li, and T. Yang, “A Crazyflie digital twin for synchronisation, actuator health monitoring, and short-horizon prediction,” *16th EASN International Conference on Innovation in Aviation & Space towards Sustainability Today and Tomorrow*, Toulouse, France, 2026. **(Accepted)**
+
+  - text: >-
+      O. F. Argin, T. Piercy, E. J. Lopez Pulgarin, **A. S. Chen**, Z. Ji, J. Carrasco, L. Li, A. Weightman, J. Wilkinson, S. Pacheco-Gutierrez, and G. Herrmann, “A semi-autonomous telemanipulation platform for glovebox-inspired constrained environments,” *IEEE Conference on Telepresence*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen**, K. Nakajima, and K. G. Vamvoudakis, “Reservoir computing for adaptive control under matched uncertainty,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen** and K. G. Vamvoudakis, “Certifiable safe quantum control against reward hacking,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “A safety framework for uncertainty-aware model predictive path integral control in shared-space navigation,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, and J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” *IEEE/RSJ International Conference on Intelligent Robots and Systems*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “Risk-bounded predictive control for automated vehicles in shared-space areas,” *17th International Symposium on Advanced Vehicle Control*, Tsukuba, Japan, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen** and K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *American Control Conference*, New Orleans, Louisiana, U.S.A., 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen**, S. Meng, Z. Li, “[In-situ learning in drones: Rethinking embodied intelligence without sim-to-real](https://doi.org/10.1088/1757-899X/1343/1/012015),” *Proceedings of 5th International Conference on Embodied Intelligence (EI 2025)*, Vol. 1343, 012015, Cambridge (Online), United Kingdom, 2025.
+
+  - text: >-
+      **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](https://doi.org/10.1109/CDC57313.2025.11312880),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, pp. 3842-3847, Rio de Janeiro, Brazil, 2025. **(Invited paper)**
+
+  - text: >-
+      **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, B. Carrera-Knowles, J. Brotherhood, T. Sakaue, K. Zhang, “[Dynamics-based trajectory planning for vibration suppression of a flexible long-reach robotic manipulator system](https://doi.org/10.1109/IROS58592.2024.10801636),” *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi, United Arab Emirates, 2024.
+
+  - text: >-
+      S. Li, Y. Zhang, **A. S. Chen**, Z. Zhang, P. Liu, “[Research on multi-robot collaborative SLAM algorithm based on factor graph optimization](https://doi.org/10.1007/978-981-96-1777-7_63),” *Proceedings of the 16th International Conference on Modelling, Identification and Control (ICMIC)*, pp. 584–598, Datong, China, 2024.
+
+  - text: >-
+      **A. S. Chen**, G. Herrmann, “[An adaptive critic learning approach for nonlinear optimal control subject to excitation and weight constraints](https://doi.org/10.1109/CDC49753.2023.10383309),” *Proceedings of the 62nd IEEE Conference on Decision and Control (CDC)*, pp. 2497–2502, Marina Bay Sands, Singapore, 2023.
+
+  - text: >-
+      **A. S. Chen**, G. Herrmann, S. Burgess, C. Brace, “[Output feedback speed control for a Wankel rotary engine via Q-learning](https://doi.org/10.1016/j.ifacol.2023.10.1014),” *IFAC-PapersOnLine*, 22nd IFAC World Congress 2023, vol. 56, no. 2, pp. 8278–8283, Yokohama, Japan, 2023.
+
+  - text: >-
+      **A. S. Chen**, G. Herrmann, “[Adaptive optimal control via continuous-time Q-learning for unknown nonlinear affine systems](https://doi.org/10.1109/CDC40024.2019.9030116),” *Proceedings of the 58th IEEE Conference on Decision and Control (CDC)*, pp. 1007–1012, Nice, France, 2019.
+
+  - text: >-
+      **A. S. Chen**, J. Na, G. Herrmann, M. Turner, G. Vorraro, C. Brace, “[Nonlinear observer-based air-fuel ratio control for port fuel injected Wankel engines](https://doi.org/10.1109/CONTROL.2018.8516842),” *Proceedings of the UKACC 12th International Conference on Control (CONTROL)*, pp. 224–229, Sheffield, United Kingdom, 2018.
+
+  - text: >-
+      **A. S. Chen**, J. Na, G. Herrmann, R. Burke, C. Brace, “[Adaptive air-fuel ratio control for spark ignition engines with time-varying parameter estimation](https://doi.org/10.1109/ICMIC.2017.8321616),” *Proceedings of the IEEE International Conference on Modelling, Identification and Control (ICMIC)*, pp. 1074–1079, Kunming, China, 2017. **(Best Student Paper)**
+
+  - text: >-
+      T. Harding, C. Rames, H. Y. Teh, T. Mill, J. Na, **A. S. Chen**, G. Herrmann, “[Engine torque estimation with integrated unknown input observer and adaptive parameter estimator](https://doi.org/10.1016/j.ifacol.2017.08.2487),” *IFAC-PapersOnLine*, 20th IFAC World Congress 2017, vol. 50, no. 1, pp. 11058–11063, Toulouse, France, 2017.
+
+books:
+  - text: >-
+      **A. S. Chen**, T. Su, and G. Herrmann, “[Control theory for sampled-data control](http://dx.doi.org/10.1016/B978-0-443-14081-5.00061-1),” in *Encyclopedia of Systems and Control Engineering*, S. K. Spurgeon, Ed., Elsevier, 2025.
+    extra_html: |
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Encyclopedia%20cover.jpeg"
+             style="border:1px solid #000000; width:120px;">
+      </p>
+
+theses:
+  - text: >-
+      **A. S. Chen**, “[Adaptive optimal control via reinforcement learning: Theory and its application to automotive engine systems](https://research-information.bris.ac.uk/en/studentTheses/adaptive-optimal-control-via-reinforcement-learning),” Ph.D. dissertation, University of Bristol, 2021.
+
+  - text: >-
+      **A. S. Chen**, “Torque estimation and air-fuel ratio control for internal combustion engines,” M.Sc. dissertation, University of Bristol, 2016.
