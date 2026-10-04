@@ -8,6 +8,24 @@ author_profile: true
 {% include base_path %}
 
 
+## 2026 First-Year Aerospace Engineering students at the University of Nottingham
+Photo taken at the ESLC in Nottingham in September 2026.
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Aerospace2026.jpg">
+</p>
+
+##  AMPI Technology Showcase: Tele-robotic System with Prof. Guido Herrmann, The University of Manchester
+Photo taken at the Sister Building in Manchester in September 2026.
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/AMPI2026.jpg">
+</p>
+
+## Meeting Professor Jane Norman, Vice-Chancellor and President of the University of Nottingham, at the University of Nottingham Ningbo Campus (UNNC)
+Photo taken in UNNC, Ningbo, China in July 2026.
+<p align="center">
+<img width="60%" style='border:1px solid #000000;' src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Jane_Norman.jpg">
+</p>
+
 ## Aerospace Students & Faculty Dinner 
 Photo taken at Alea Casino in Nottingham in January 2025.
 <p align="center">
