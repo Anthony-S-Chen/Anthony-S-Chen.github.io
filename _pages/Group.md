@@ -21,45 +21,46 @@ author_profile: true
 
 - **[Guolin Yang](https://guolinyang.github.io/)**  
   **Model-Based Reinforcement Learning for Predictive Autonomous Systems**
-  Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio
+  *Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio*
   Alma mater: The University of Manchester, UK
 
 - **Yan Zhao**  
   **Digital Twin for Aerospace Distributed Electric Propulsion Systems**
-  Jointly with Prof. Tao Yang and Prof. Mark Jabbal
+  *Co-supervised with Prof. Tao Yang and Prof. Mark Jabbal*
   Alma mater: Nanjing University of Aeronautics and Astronautics, China
 
 ## Recent MEng Alumni
 
 - **Adam Bullock**, 2026  
-  *MEng project:* Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities  
-  **First position:** Graduate Aircraft Design Engineer, STC Twenty One
+  MEng project: *Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities*  
+  First position: *Graduate Aircraft Design Engineer, STC Twenty One*
 
 - **Devon Somy**, 2026  
-  **MEng project:** Reinforcement Learning for Wall-Following Navigation of UAVs in Nuclear Environments  
-  **First position:** TBD
+  MEng project: *Reinforcement Learning for Wall-Following Navigation of UAVs in Nuclear Environments*  
+  First position: *TBD*
 
 - **William Bulica**, 2026  
-  **MEng project (with Leonardo UK):** Is It Possible to Detect Supersonic Aircraft Using Passive Radars?  
-  **First position:** Graduate Systems Engineer, Leonardo UK
+  MEng project (with *Leonardo UK*): *Is It Possible to Detect Supersonic Aircraft Using Passive Radars?*  
+  First position: *Graduate Systems Engineer, Leonardo UK*
 
 ## Recent BEng Alumni
 
 - **Dev Kagdala**, 2026  
-  **BEng project:** Safety-Critical Control of Unmanned Aerial Vehicles (UAVs) in Confined Nuclear Spaces using Control Barrier Functions (CBFs)  
-  **First position:** Graduate Systems Engineer, Leonardo UK
+  BEng project: *Safety-Critical Control of Unmanned Aerial Vehicles (UAVs) in Confined Nuclear Spaces using Control Barrier Functions (CBFs)*  
+  First position: *Graduate Systems Engineer, Leonardo UK*
 
 - **Zihang Zhu**, 2026  
-  **BEng project:** Energy-Efficient Optimal Control of Nuclear UAV Missions with Minimal Sensors  
-  **First position:** MSc student, National University of Singapore
+  BEng project: *Energy-Efficient Optimal Control of Nuclear UAV Missions with Minimal Sensors*  
+  First position: *MSc student, National University of Singapore*
 
 - **Sriyansh Rout**, 2026  
-  **BEng project:** Dynamic Data-Driven Modelling of a Gas Turbine Towards Digital Twin  
-  **First position:** MSc student in Aerospace Engineering, University of Bristol
+  BEng project: *Dynamic Data-Driven Modelling of a Gas Turbine Towards Digital Twin*  
+  First position: *MSc student in Aerospace Engineering, University of Bristol*
 
 ## Former Post-doctoral Fellows, Research Engineers, Visitors, and Interns
 
-- **Zhongmou Li** (The University of Manchester, UK)
-- **Yufeng Sun** (North University of China, China)
-- **Yiding Wang** (Imperial College London, UK)
-- **Sophia Shuhui Meng** (University of Cambridge, UK)
+- **Yiding Wang**, 2026 (Imperial College London, UK)
+- **Zhongmou Li**, 2026 (The University of Manchester, UK)
+- **Cameron Roberts**, 2026 (University of Nottingham, UK)
+- **Yufeng Sun**, 2025 (North University of China, China)
+- **Sophia Shuhui Meng**, 2025 (University of Cambridge, UK)
