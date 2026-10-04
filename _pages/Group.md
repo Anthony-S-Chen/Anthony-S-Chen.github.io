@@ -35,6 +35,10 @@ author_profile: true
   MEng project (with *Leonardo UK*): *TBC - Game theory and UAVs*  
 
 
+- **Jacob Dorman**, 2027  
+  MEng project (with *Leonardo UK*): *TBC - Game theory and UAVs*
+
+  
 - **Shaan Rana**, 2027  
   MEng project: *TBC - Swarm UAVs*
 
@@ -45,10 +49,6 @@ author_profile: true
 
 - **Sofia Shakespeare Diaz**, 2027  
   MEng project: *TBC - Game theory and UAVs, Defence*  
-
-
-- **Jacob Dorman**, 2027  
-  MEng project (with *Leonardo UK*): *TBC - Game theory and UAVs*
 
 
 - **Juyi Yang**, 2027  
