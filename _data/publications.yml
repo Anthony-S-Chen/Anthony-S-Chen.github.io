@@ -1,86 +1,87 @@
-journals:
-  - text: >-
-      P. Jia, J. Lian, W. Wang, **A. S. Chen**, K. Liu, “Physics-Informed Cross-Layer Energy Allocation for Networked Switched Systems Under Denial-of-Service Attacks,” submitted, 2026.
-  
-  - text: >-
-      B. Jia, J. Zhao, **A. S. Chen**, S. Song, Q. Zeng, “Adaptive Optimal Output-Feedback Control for Valve-Pump Electro-Hydraulic Systems,” submitted, 2026.
-  
-  - text: >-
-      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “In-situ learning for optimal quadrotor control on SE(3),” submitted, 2026.
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “MBE-MPPI: Multi-Barrier-Enhanced Model Predictive Path Integral for Safe and Efficient Vehicle Navigation,” submitted, 2026.
+      **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, and K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, vol. 31, no. 2, pp. 2221–2233, 2026.
 
   - text: >-
-      O. F. Argin, E. J. Lopez Pulgarin, **A. S. Chen**, G. Herrmann, “Safe shared control in manipulator teleoperation through control barrier functions,” submitted, 2025.
+      **A. S. Chen**, G. Herrmann, R. Islam, C. Brace, J. W. Turner, and S. Burgess, “[Q-learning-based optimal control via adaptive critic network for a Wankel rotary engine](https://doi.org/10.1109/TCST.2025.3533312),” *IEEE Transactions on Control Systems Technology*, vol. 33, no. 3, pp. 1101–1109, 2025.
 
   - text: >-
-      B. Jia, J. Zhao, J. Na, **A. S. Chen**, Q. Zeng, “Model-free output-feedback optimal control of nonlinear systems,” submitted, 2025.
+      **A. S. Chen**, G. Herrmann, R. Islam, M. Turner, C. Brace, G. Vorraro, J. W. Turner, S. Burgess, and N. Bailey, “[Effective emission control of aero-engines via nonlinear dual-estimators for uncertain states and parameters](https://doi.org/10.1016/j.ast.2025.110210),” *Aerospace Science and Technology*, vol. 163, article 110210, 2025.
 
   - text: >-
-      **A. S. Chen**, E. J. Lopez Pulgarin, O. F. Argin, L. Li, J. Carrasco, G. Herrmann, A. Weightman, “A safe-exploration scheme for glovebox robot learning,” submitted, 2025.
+      A. Islam, **A. S. Chen**, and G. Herrmann, “[A Q-learning algorithm to solve the two-player zero-sum game problem for nonlinear systems](https://doi.org/10.1002/acs.3958),” *International Journal of Adaptive Control and Signal Processing*, vol. 39, no. 3, pp. 566–581, 2025.
 
   - text: >-
-      **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, “Safe optimal observer design via Q-learning,” submitted, 2025.
+      L. Li, D. Crosby, M. Shuttleworth, O. F. Argin, **A. S. Chen**, G. Herrmann, R. Kay, and A. Weightman, “[A comparative analysis and scoping review of soft-rigid and industrial parallel rigid grippers](https://doi.org/10.1002/aisy.202400503),” *Advanced Intelligent Systems*, vol. 7, no. 5, article 2400503, 2025.
 
   - text: >-
-      A. Islam, **A. S. Chen**, “[Universal post-measurement quantum control under adversarial Hamiltonian uncertainty via Isaacs differential games](https://doi.org/10.1109/LCSYS.2026.3704990),” *IEEE Control Systems Letters*, 2026. (Also presented at the 65th IEEE Conference on Decision and Control (CDC), Honolulu, Hawaii, United States, 2026.) **(Invited paper)**
+      **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, and J. Vijayan, “[Learning-based quantum control for optimal pure state manipulation](https://doi.org/10.1109/LCSYS.2024.3409671),” *IEEE Control Systems Letters*, vol. 8, pp. 1319–1324, 2024. (Also presented at the 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, 2024.) **(Invited paper)**
 
   - text: >-
-      **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, J. Brotherhood, T. Sakaue, K. Zhang, “[Self-attenuating real-time vibration control of a flexible long-reach robot](https://doi.org/10.1109/TMECH.2025.3623080),” *IEEE/ASME Transactions on Mechatronics*, vol. 31, no. 2, pp. 2221-2233, 2026.
+      J. Na, **A. S. Chen**, Y. Huang, A. Agarwal, A. Lewis, G. Herrmann, R. Burke, and C. Brace, “[Air-fuel ratio control of spark ignition engines with unknown system dynamics estimator](https://doi.org/10.1109/TCST.2019.2951125),” *IEEE Transactions on Control Systems Technology*, vol. 29, no. 2, pp. 786–793, 2021.
 
   - text: >-
-      **A. S. Chen**, G. Herrmann, R. Islam, C. Brace, J. W. Turner, S. Burgess, “[Q-learning-based optimal control via adaptive critic network for a Wankel rotary engine](https://doi.org/10.1109/TCST.2025.3533312),” *IEEE Transactions on Control Systems Technology*, vol. 33, no. 3, pp. 1101–1109, 2025.
+      **A. S. Chen**, G. Vorraro, M. Turner, R. Islam, G. Herrmann, S. Burgess, C. Brace, J. Turner, and N. Bailey, “[Control-oriented modelling of a Wankel rotary engine: A synthesis approach of state space and neural networks](https://doi.org/10.4271/2020-01-0253),” *SAE Technical Paper 2020-01-0253*, 2020. (Also presented at the SAE World Congress Experience (WCX) 2020).
 
   - text: >-
-      **A. S. Chen**, G. Herrmann, R. Islam, M. Turner, C. Brace, G. Vorraro, J. W. Turner, S. Burgess, N. Bailey, “[Effective emission control of aero-engines via nonlinear dual-estimators for uncertain states and parameters](https://doi.org/10.1016/j.ast.2025.110210),” *Aerospace Science and Technology*, vol. 142, p. 110210, 2025.
-
-  - text: >-
-      A. Islam, **A. S. Chen**, G. Herrmann, “[A Q-learning algorithm to solve the two-player zero-sum game problem for nonlinear systems](https://doi.org/10.1002/acs.3958),” *International Journal of Adaptive Control and Signal Processing*, vol. 39, no. 3, pp. 566–581, 2025.
-      
-  - text: >-
-      **A. S. Chen**, G. Herrmann, K. G. Vamvoudakis, J. Vijayan, “[Learning-based quantum control for optimal pure state manipulation](https://doi.org/10.1109/LCSYS.2024.3409671),” *IEEE Control Systems Letters*, vol. 8, pp. 1319–1324, 2024. (Also presented at the 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, 2024.) **(Invited paper)**
-
-  - text: >-
-      L. Li, D. Crosby, M. Shuttleworth, O. F. Argin, **A. S. Chen**, G. Herrmann, R. Kay, A. Weightman, “[A comparative analysis of soft-rigid and industrial parallel rigid grippers](https://doi.org/10.1002/aisy.202400503),” *Advanced Intelligent Systems*, vol. 6, no. 3, p. 2300329, 2024.
-      
-  - text: >-
-      **A. S. Chen**, G. Vorraro, M. Turner, R. Islam, G. Herrmann, S. Burgess, C. Brace, J. Turner, N. Bailey, “[Control-oriented modelling of a Wankel rotary engine: A synthesis approach of state space and neural networks](https://doi.org/10.4271/2020-01-0253),” *SAE Technical Paper*, no. 2020-01-0253, 2020. (Also presented at the SAE World Congress Experience (WCX) 2020)
-  
-  - text: >-
-      J. Na, **A. S. Chen**, Y. Huang, A. Agarwal, A. Lewis, G. Herrmann, R. Burke, C. Brace, “[Air-fuel ratio control of spark ignition engines with unknown system dynamics estimator](https://doi.org/10.1109/TCST.2019.2951125),” *IEEE Transactions on Control Systems Technology*, vol. 29, no. 2, pp. 786–793, 2019.
-
-  - text: >-
-      J. Na, **A. S. Chen**, G. Herrmann, R. Burke, C. Brace, “[Vehicle engine torque estimation via unknown input observer and adaptive parameter estimation](https://doi.org/10.1109/TVT.2017.2737440),” *IEEE Transactions on Vehicular Technology*, vol. 67, no. 1, pp. 409–422, 2017.
+      J. Na, **A. S. Chen**, G. Herrmann, R. Burke, and C. Brace, “[Vehicle engine torque estimation via unknown input observer and adaptive parameter estimation](https://doi.org/10.1109/TVT.2017.2737440),” *IEEE Transactions on Vehicular Technology*, vol. 67, no. 1, pp. 409–422, 2018.
 
 conferences:
+  # Submitted conference articles
+  - text: >-
+      Y. Wang and **A. S. Chen**, “Continuous-time adaptive reservoir learning for safe robot control,” **(Submitted)**, 2026.
 
   - text: >-
-      **A. S. Chen**, K. Nakajima, K. G. Vamvoudakis, “Reservoir computing for adaptive control under matched uncertainty,” submitted, 2026.
+      Y. Wang, N. Pushparaj, C. Cappelletti, and **A. S. Chen**, “Safe release control for small-body landing via attitude-dependent invariant sets,” **(Submitted)**, 2026.
 
   - text: >-
-      **A. S. Chen**, K. G. Vamvoudakis, “Certifiable safe quantum control against reward hacking,” submitted, 2026.
+      S. S. Meng and **A. S. Chen**, “Fading-memory reservoir adaptive control of partially observed FitzHugh-Nagumo networks,” **(Submitted)**, 2026.
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “A safety framework for uncertainty-aware model predictive path integral control in shared-space navigation,” submitted, 2026.
-      
+      S. S. Meng and **A. S. Chen**, “Adaptive spike-based control for wall-probing aerial robots,” **(Submitted)**, 2026.
+
+  # Published and accepted conference articles
   - text: >-
-      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” submitted, 2025.
+      W. K. Bulica and **A. S. Chen**, “Is It Possible to Detect Supersonic Aircraft Using Passive Radars?,” *AIAA SciTech Forum*, 2027. **(Accepted)**
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” submitted, 2025.
+      S. Rout and **A. S. Chen**, “Cross-Dataset Free-Run Validation of Data-Driven Dynamic Models for Small Turbojet Digital Twins,” *AIAA SciTech Forum*, 2027. **(Accepted)**
 
   - text: >-
-      G. Yang, **A. S. Chen**, A. Parisio, G. Herrmann, “Risk-bounded predictive control for automated vehicles in shared-space area,” 17th International Symposium on Advanced Vehicle Control (AVEC), Tsukuba, Japan, 2026. **(Accepted)**
+      Y. Zhao, **A. S. Chen**, M. Jabbal, and T. Yang, “Flight-Log-Driven Physics-Structured Reservoir Computing for Drift-Resilient UAV Digital Twins,” *AIAA SciTech Forum*, 2027. **(Accepted)**
 
   - text: >-
-      **A. S. Chen**, K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *Proceedings of the American Control Conference (ACC)*, New Orleans, Louisiana, United States, 2026. **(Accepted)**
+      Y. Zhao, **A. S. Chen**, M. Jabbal, D. Li, and T. Yang, “A Crazyflie digital twin for synchronisation, actuator health monitoring, and short-horizon prediction,” *16th EASN International Conference on Innovation in Aviation & Space towards Sustainability Today and Tomorrow*, Toulouse, France, 2026. **(Accepted)**
+
+  - text: >-
+      O. F. Argin, T. Piercy, E. J. Lopez Pulgarin, **A. S. Chen**, Z. Ji, J. Carrasco, L. Li, A. Weightman, J. Wilkinson, S. Pacheco-Gutierrez, and G. Herrmann, “A semi-autonomous telemanipulation platform for glovebox-inspired constrained environments,” *IEEE Conference on Telepresence*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen**, K. Nakajima, and K. G. Vamvoudakis, “Reservoir computing for adaptive control under matched uncertainty,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen** and K. G. Vamvoudakis, “Certifiable safe quantum control against reward hacking,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “A safety framework for uncertainty-aware model predictive path integral control in shared-space navigation,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen**, Z. Li, W. Pan, K. G. Vamvoudakis, and J. Hu, “Optimal adaptive geometric control of unmanned aerial vehicles via single-critic policy distillation,” *65th IEEE Conference on Decision and Control*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “PIP-CN: Prediction-integrated planning for crowd navigation,” *IEEE/RSJ International Conference on Intelligent Robots and Systems*, 2026. **(Accepted)**
+
+  - text: >-
+      G. Yang, **A. S. Chen**, A. Parisio, and G. Herrmann, “Risk-bounded predictive control for automated vehicles in shared-space areas,” *17th International Symposium on Advanced Vehicle Control*, Tsukuba, Japan, 2026. **(Accepted)**
+
+  - text: >-
+      **A. S. Chen** and K. G. Vamvoudakis, “Continuous-time quantum reservoirs,” *American Control Conference*, New Orleans, Louisiana, U.S.A., 2026. **(Accepted)**
 
   - text: >-
       **A. S. Chen**, S. Meng, Z. Li, “[In-situ learning in drones: Rethinking embodied intelligence without sim-to-real](https://doi.org/10.1088/1757-899X/1343/1/012015),” *Proceedings of 5th International Conference on Embodied Intelligence (EI 2025)*, Vol. 1343, 012015, Cambridge (Online), United Kingdom, 2025.
 
   - text: >-
-      **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](https://doi.org/10.1109/CDC57313.2025.11312880),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, pp. 3842-3847, Rio de Janeiro, Brazil, 2025. **(Invited)**
+      **A. S. Chen**, K. G. Vamvoudakis, “[Robot learning optimal control via an adaptive critic reservoir](https://doi.org/10.1109/CDC57313.2025.11312880),” *Proceedings of the 64th IEEE Conference on Decision and Control (CDC)*, pp. 3842-3847, Rio de Janeiro, Brazil, 2025. **(Invited paper)**
 
   - text: >-
       **A. S. Chen**, E. J. Lopez Pulgarin, G. Herrmann, A. Lanzon, J. Carrasco, B. Lennox, B. Carrera-Knowles, J. Brotherhood, T. Sakaue, K. Zhang, “[Dynamics-based trajectory planning for vibration suppression of a flexible long-reach robotic manipulator system](https://doi.org/10.1109/IROS58592.2024.10801636),” *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi, United Arab Emirates, 2024.
@@ -104,11 +105,11 @@ conferences:
       **A. S. Chen**, J. Na, G. Herrmann, R. Burke, C. Brace, “[Adaptive air-fuel ratio control for spark ignition engines with time-varying parameter estimation](https://doi.org/10.1109/ICMIC.2017.8321616),” *Proceedings of the IEEE International Conference on Modelling, Identification and Control (ICMIC)*, pp. 1074–1079, Kunming, China, 2017. **(Best Student Paper)**
 
   - text: >-
-      T. Harding, C. Rames, H. Y. Teh, T. Mill, J. Na, **A. S. Chen**, G. Herrmann, “[Engine torque estimation with integrated unknown input observer and adaptive parameter estimator](https://doi.org/10.1016/j.ifacol.2017.08.2487),” *IFAC-PapersOnLine*, 20nd IFAC World Congress 2017, vol. 50, no. 1, pp. 11058–11063, Toulouse, France, 2017.
+      T. Harding, C. Rames, H. Y. Teh, T. Mill, J. Na, **A. S. Chen**, G. Herrmann, “[Engine torque estimation with integrated unknown input observer and adaptive parameter estimator](https://doi.org/10.1016/j.ifacol.2017.08.2487),” *IFAC-PapersOnLine*, 20th IFAC World Congress 2017, vol. 50, no. 1, pp. 11058–11063, Toulouse, France, 2017.
 
 books:
   - text: >-
-      **A. S. Chen**, T. Su, G. Herrmann, “[Control theory for sampled-data control](http://dx.doi.org/10.1016/B978-0-443-14081-5.00061-1),” in *Encyclopedia of Systems and Control Engineering*, Elsevier, 2025.
+      **A. S. Chen**, T. Su, and G. Herrmann, “[Control theory for sampled-data control](http://dx.doi.org/10.1016/B978-0-443-14081-5.00061-1),” in *Encyclopedia of Systems and Control Engineering*, S. K. Spurgeon, Ed., Elsevier, 2025.
     extra_html: |
       <p align="left">
         <img src="https://raw.githubusercontent.com/Anthony-S-Chen/portfolio/master/images/Encyclopedia%20cover.jpeg"
@@ -117,7 +118,7 @@ books:
 
 theses:
   - text: >-
-      **A. S. Chen**, “[Adaptive optimal control via reinforcement learning: Theory and its application to automotive engine systems](https://research-information.bris.ac.uk/en/studentTheses/adaptive-optimal-control-via-reinforcement-learning),” Ph.D. thesis, University of Bristol, 2021.
+      **A. S. Chen**, “[Adaptive optimal control via reinforcement learning: Theory and its application to automotive engine systems](https://research-information.bris.ac.uk/en/studentTheses/adaptive-optimal-control-via-reinforcement-learning),” Ph.D. dissertation, University of Bristol, 2021.
 
   - text: >-
-      **A. S. Chen**, “Torque estimation and air-fuel ratio control for internal combustion engines,” M.Sc. thesis, University of Bristol, 2016.
+      **A. S. Chen**, “Torque estimation and air-fuel ratio control for internal combustion engines,” M.Sc. dissertation, University of Bristol, 2016.
