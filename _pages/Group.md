@@ -20,47 +20,47 @@ author_profile: true
 ## Current PhD Students
 
 - **[Guolin Yang](https://guolinyang.github.io/)**  
-  *Model-Based Reinforcement Learning for Predictive Autonomous Systems*
-  *Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio*
+  *Model-Based Reinforcement Learning for Predictive Autonomous Systems*  
+  *Co-supervised with Prof. Guido Herrmann and Prof. Alessandra Parisio*  
   Alma mater: *The University of Manchester, UK*
 
 - **Yan Zhao**  
-  *Digital Twin for Aerospace Distributed Electric Propulsion Systems*
-  *Co-supervised with Prof. Tao Yang and Prof. Mark Jabbal*
-  Alma mater: *Nanjing University of Aeronautics and Astronautics, China*
+  *Digital Twin for Aerospace Distributed Electric Propulsion Systems*  
+  *Co-supervised with Prof. Tao Yang and Prof. Mark Jabbal*  
+  Alma mater: *Nanjing University of Aeronautics and Astronautics, China*  
 
 ## Current MEng Students
 
 - **Abdur-Rafey Faisal**, 2027  
-  MEng project (with *Leonardo UK*): *TBC - Game theory*  
+  MEng project (with *Leonardo UK*): *TBC - Game theory and UAVs*  
 
 
 - **Shaan Rana**, 2027  
-  MEng project: *TBC - Swarm UAVs*  
+  MEng project: *TBC - Swarm UAVs*
 
-
-- **Jacob Dorman**, 2027  
-  MEng project (with *Leonardo UK*): *TBC - Game theory*
-
-
-- **Juyi Yang**, 2027  
-  MEng project: *TBC - Game theory*
-
-
-- **Benjamin Stevens**, 2027  
-  MEng project: *TBC - Fault-Tolerant Control*  
-
-
-- **Gemma Read**, 2027  
-  MEng project: *TBC - Fault-Tolerant Control*
-
-
+  
 - **Ryuichi Nakamura**, 2027  
   MEng project: *TBC - LLM, Onboarding computing for Drones*  
 
 
 - **Sofia Shakespeare Diaz**, 2027  
-  MEng project: *TBC - Game theory, Defence*  
+  MEng project: *TBC - Game theory and UAVs, Defence*  
+
+
+- **Jacob Dorman**, 2027  
+  MEng project (with *Leonardo UK*): *TBC - Game theory and UAVs*
+
+
+- **Juyi Yang**, 2027  
+  BEng project: *TBC - Game theory and UAVs*
+
+
+- **Benjamin Stevens**, 2027  
+  BEng project: *TBC - Fault-Tolerant Control and UAVs*  
+
+
+- **Gemma Read**, 2027  
+  BEng project: *TBC - Fault-Tolerant Control and UAVs*
 
 
 
