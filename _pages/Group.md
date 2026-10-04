@@ -6,53 +6,56 @@ author_profile: true
 ---
 
 <style>
-.group-grid{display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-top: 10px;}
-.group-card{border:1px solid #eee; border-radius:10px; padding:14px;}
-.group-card h3{margin:0 0 8px 0;}
-.group-card ul{margin:0; padding-left:18px;}
+.page__content h2 {
+  margin-top: 1.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid #e5e7eb;
+}
+.page__content li {
+  margin-bottom: 1.1em;
+  line-height: 1.65;
+}
 </style>
 
-<div class="group-grid">
+## Current PhD Students
 
-  <div class="group-card">
-    <h3>PhD Students</h3>
-    <ul>
-      <li>Guolin Yang (The University of Manchester)</li>
-      <li>Yan Zhao (PEMC)</li>
-    </ul>
-  </div>
+- **[Guolin Yang](https://guolinyang.github.io/)**  
+  The University of Manchester
 
-  <div class="group-card">
-    <h3>Intelligent Drone Lab</h3>
-    <ul>
-      <li>Adam Bullock</li>
-      <li>Dev Kagdala (Leonardo UK Placement)</li> 
-      <li>Devon Somy (Rolls-Royce Placement)</li> 
-      <li>Zihang Zhu</li>
-    </ul>
-  </div>
+- **Yan Zhao**  
+  Power Electronics, Machines and Control (PEMC) Research Group, University of Nottingham
 
-  <div class="group-card">
-    <h3>Avionic Systems</h3>
-    <ul>
-      <li>William Bulica (Leonardo UK Placement)</li> 
-    </ul>
-  </div>
+## Recent MEng Alumni
 
-  <div class="group-card">
-    <h3>Aero-engine</h3>
-    <ul>
-      <li>Sriyansh Rout</li>
-    </ul>
-  </div>
+- **Adam Bullock**, 2026  
+  **MEng project:** Attitude Estimation and State Awareness of a Minimal Sensor Micro-UAV in GPS-Denied Nuclear Facilities  
+  **First position:** <!-- Add first position here. -->
 
-  <div class="group-card">
-    <h3>Academic/Postdoc Visitor</h3>
-    <ul>
-      <li>Zhongmou Li</li>
-      <li>Yufeng Sun</li>
-    </ul>
-  </div>
+- **Devon Somy**, 2026  
+  **MEng project:** Reinforcement Learning for Wall-Following Navigation of UAVs in Nuclear Environments  
+  **First position:** <!-- Add first position here. -->
 
-</div>
+- **William Bulica**, 2026  
+  **MEng project:** Is It Possible to Detect Supersonic Aircraft Using Passive Radars?  
+  **First position:** Graduate Systems Engineer, Leonardo UK
 
+## Recent BEng Alumni
+
+- **Dev Kagdala**, 2026  
+  **BEng project:** Safety-Critical Control of Unmanned Aerial Vehicles (UAVs) in Confined Nuclear Spaces using Control Barrier Functions (CBFs)  
+  **First position:** <!-- Add first position here. -->
+
+- **Zihang Zhu**, 2026  
+  **BEng project:** Energy-Efficient Optimal Control of Nuclear UAV Missions with Minimal Sensors  
+  **First position:** <!-- Add first position here. -->
+
+- **Sriyansh Rout**, 2026  
+  **BEng project:** Dynamic Data-Driven Modelling of a Gas Turbine Towards Digital Twin  
+  **First position:** MSc student in Aerospace Engineering, University of Bristol
+
+## Former Post-doctoral Fellows, Research Engineers, Visitors, and Interns
+
+- **Zhongmou Li** (The University of Manchester)
+- **Yufeng Sun** (North University of China)
+- **Yiding Wang** (Imperial College London)
+- **Sophia Shuhui Meng** (University of Cambridge)
