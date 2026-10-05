@@ -84,7 +84,7 @@ author_profile: true
 
 - **Zihang Zhu**, 2026  
   BEng project: *Energy-Efficient Optimal Control of Nuclear UAV Missions with Minimal Sensors*  
-  First position: *MSc student, National University of Singapore*
+  First position: *MSc student in Mechanical Engineering, National University of Singapore*
 
 - **Sriyansh Rout**, 2026  
   BEng project: *Dynamic Data-Driven Modelling of a Gas Turbine Towards Digital Twin*  
